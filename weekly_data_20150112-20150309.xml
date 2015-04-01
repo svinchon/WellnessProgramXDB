@@ -1,0 +1,4323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<weekly_data>
+   <weekly_member_data>
+      <id>P516LBXwP2yszOD7AaaoQQ</id>
+      <patient_id>111111^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111111</member_id>
+      <weekly_index_value>350</weekly_index_value>
+      <weekly_index_level>3</weekly_index_level>
+      <weekly_index_level_label>Almost there</weekly_index_level_label>
+      <weekly_index_color>FFFF66</weekly_index_color>
+      <week_start_date>2015-01-12</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>60</value>
+            <label>Steps</label>
+            <color>FFFF66</color>
+            <text>Good. You are getting there</text>
+         </recommendation>
+         <recommendation>
+            <value>75</value>
+            <label>Water</label>
+            <color>99FF66</color>
+            <text>Good job - just a few more glasses of water</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>P516LBXwP2yszOD7AaaoQQ</id>
+      <patient_id>111111^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111111</member_id>
+      <weekly_index_value>380</weekly_index_value>
+      <weekly_index_level>3</weekly_index_level>
+      <weekly_index_level_label>Almost there</weekly_index_level_label>
+      <weekly_index_color>FFFF66</weekly_index_color>
+      <week_start_date>2015-01-19</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>70</value>
+            <label>Steps</label>
+            <color>FFFF66</color>
+            <text>Good. You are getting there</text>
+         </recommendation>
+         <recommendation>
+            <value>60</value>
+            <label>Water</label>
+            <color>99FF66</color>
+            <text>Good job - just a few more glasses of water</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>P516LBXwP2yszOD7AaaoQQ</id>
+      <patient_id>111111^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111111</member_id>
+      <weekly_index_value>410</weekly_index_value>
+      <weekly_index_level>3</weekly_index_level>
+      <weekly_index_level_label>Almost there</weekly_index_level_label>
+      <weekly_index_color>FFFF66</weekly_index_color>
+      <week_start_date>2015-01-26</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>80</value>
+            <label>Steps</label>
+            <color>FFFF66</color>
+            <text>Good. You are getting there</text>
+         </recommendation>
+         <recommendation>
+            <value>80</value>
+            <label>Water</label>
+            <color>99FF66</color>
+            <text>Good job - just a few more glasses of water</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>P516LBXwP2yszOD7AaaoQQ</id>
+      <patient_id>111111^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111111</member_id>
+      <weekly_index_value>440</weekly_index_value>
+      <weekly_index_level>3</weekly_index_level>
+      <weekly_index_level_label>Almost there</weekly_index_level_label>
+      <weekly_index_color>FFFF66</weekly_index_color>
+      <week_start_date>2015-02-02</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>60</value>
+            <label>Steps</label>
+            <color>FFFF66</color>
+            <text>Good. You are getting there</text>
+         </recommendation>
+         <recommendation>
+            <value>75</value>
+            <label>Water</label>
+            <color>99FF66</color>
+            <text>Good job - just a few more glasses of water</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>P516LBXwP2yszOD7AaaoQQ</id>
+      <patient_id>111111^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111111</member_id>
+      <weekly_index_value>440</weekly_index_value>
+      <weekly_index_level>3</weekly_index_level>
+      <weekly_index_level_label>Almost there</weekly_index_level_label>
+      <weekly_index_color>FFFF66</weekly_index_color>
+      <week_start_date>2015-02-09</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>70</value>
+            <label>Steps</label>
+            <color>FFFF66</color>
+            <text>Good. You are getting there</text>
+         </recommendation>
+         <recommendation>
+            <value>75</value>
+            <label>Water</label>
+            <color>99FF66</color>
+            <text>Good job - just a few more glasses of water</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>P516LBXwP2yszOD7AaaoQQ</id>
+      <patient_id>111111^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111111</member_id>
+      <weekly_index_value>430</weekly_index_value>
+      <weekly_index_level>3</weekly_index_level>
+      <weekly_index_level_label>Almost there</weekly_index_level_label>
+      <weekly_index_color>FFFF66</weekly_index_color>
+      <week_start_date>2015-02-16</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>95</value>
+            <label>Steps</label>
+            <color>FFFF66</color>
+            <text>Good. You are getting there</text>
+         </recommendation>
+         <recommendation>
+            <value>85</value>
+            <label>Water</label>
+            <color>99FF66</color>
+            <text>Good job - just a few more glasses of water</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>P516LBXwP2yszOD7AaaoQQ</id>
+      <patient_id>111111^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111111</member_id>
+      <weekly_index_value>490</weekly_index_value>
+      <weekly_index_level>4</weekly_index_level>
+      <weekly_index_level_label>Great</weekly_index_level_label>
+      <weekly_index_color>99FF66</weekly_index_color>
+      <week_start_date>2015-02-23</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>60</value>
+            <label>Steps</label>
+            <color>FFFF66</color>
+            <text>Good. You are getting there</text>
+         </recommendation>
+         <recommendation>
+            <value>75</value>
+            <label>Water</label>
+            <color>99FF66</color>
+            <text>Good job - just a few more glasses of water</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>P516LBXwP2yszOD7AaaoQQ</id>
+      <patient_id>111111^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111111</member_id>
+      <weekly_index_value>510</weekly_index_value>
+      <weekly_index_level>4</weekly_index_level>
+      <weekly_index_level_label>Great</weekly_index_level_label>
+      <weekly_index_color>99FF66</weekly_index_color>
+      <week_start_date>2015-03-02</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>70</value>
+            <label>Steps</label>
+            <color>FFFF66</color>
+            <text>Good. You are getting there</text>
+         </recommendation>
+         <recommendation>
+            <value>75</value>
+            <label>Water</label>
+            <color>99FF66</color>
+            <text>Good job - just a few more glasses of water</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>P516LBXwP2yszOD7AaaoQQ</id>
+      <patient_id>111111^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111111</member_id>
+      <weekly_index_value>540</weekly_index_value>
+      <weekly_index_level>4</weekly_index_level>
+      <weekly_index_level_label>Great</weekly_index_level_label>
+      <weekly_index_color>99FF66</weekly_index_color>
+      <week_start_date>2015-03-09</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>95</value>
+            <label>Steps</label>
+            <color>FFFF66</color>
+            <text>Good. You are getting there</text>
+         </recommendation>
+         <recommendation>
+            <value>85</value>
+            <label>Water</label>
+            <color>99FF66</color>
+            <text>Good job - just a few more glasses of water</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>3ofHoazhhbpMfeA4bKjIRw</id>
+      <patient_id>111112^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111112</member_id>
+      <weekly_index_value>380</weekly_index_value>
+      <weekly_index_level>3</weekly_index_level>
+      <weekly_index_level_label>Almost there</weekly_index_level_label>
+      <weekly_index_color>FFFF66</weekly_index_color>
+      <week_start_date>2015-01-12</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>40</value>
+            <label>Sleep</label>
+            <color>FF9933</color>
+            <text>Would be great if you could sleep for four more hours</text>
+         </recommendation>
+         <recommendation>
+            <value />
+            <label />
+            <color />
+            <text />
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>3ofHoazhhbpMfeA4bKjIRw</id>
+      <patient_id>111112^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111112</member_id>
+      <weekly_index_value>350</weekly_index_value>
+      <weekly_index_level>3</weekly_index_level>
+      <weekly_index_level_label>Almost there</weekly_index_level_label>
+      <weekly_index_color>FFFF66</weekly_index_color>
+      <week_start_date>2015-01-19</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>50</value>
+            <label>Sleep</label>
+            <color>FF9933</color>
+            <text>Would be great if you could sleep for four more hours</text>
+         </recommendation>
+         <recommendation>
+            <value />
+            <label />
+            <color />
+            <text />
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>3ofHoazhhbpMfeA4bKjIRw</id>
+      <patient_id>111112^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111112</member_id>
+      <weekly_index_value>400</weekly_index_value>
+      <weekly_index_level>3</weekly_index_level>
+      <weekly_index_level_label>Almost there</weekly_index_level_label>
+      <weekly_index_color>FFFF66</weekly_index_color>
+      <week_start_date>2015-01-26</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>50</value>
+            <label>Sleep</label>
+            <color>FFFF66</color>
+            <text>Would be great if you could sleep for two more hours</text>
+         </recommendation>
+         <recommendation>
+            <value />
+            <label />
+            <color />
+            <text />
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>3ofHoazhhbpMfeA4bKjIRw</id>
+      <patient_id>111112^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111112</member_id>
+      <weekly_index_value>440</weekly_index_value>
+      <weekly_index_level>3</weekly_index_level>
+      <weekly_index_level_label>Almost there</weekly_index_level_label>
+      <weekly_index_color>FFFF66</weekly_index_color>
+      <week_start_date>2015-02-02</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>50</value>
+            <label>Sleep</label>
+            <color>FFFF66</color>
+            <text>Would be great if you could sleep for two more hours</text>
+         </recommendation>
+         <recommendation>
+            <value />
+            <label />
+            <color />
+            <text />
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>3ofHoazhhbpMfeA4bKjIRw</id>
+      <patient_id>111112^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111112</member_id>
+      <weekly_index_value>460</weekly_index_value>
+      <weekly_index_level>4</weekly_index_level>
+      <weekly_index_level_label>Great</weekly_index_level_label>
+      <weekly_index_color>99FF66</weekly_index_color>
+      <week_start_date>2015-02-09</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>55</value>
+            <label>Sleep</label>
+            <color>FFFF66</color>
+            <text>Would be great if you could sleep for two more hours</text>
+         </recommendation>
+         <recommendation>
+            <value />
+            <label />
+            <color />
+            <text />
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>3ofHoazhhbpMfeA4bKjIRw</id>
+      <patient_id>111112^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111112</member_id>
+      <weekly_index_value>490</weekly_index_value>
+      <weekly_index_level>4</weekly_index_level>
+      <weekly_index_level_label>Great</weekly_index_level_label>
+      <weekly_index_color>99FF66</weekly_index_color>
+      <week_start_date>2015-02-16</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>60</value>
+            <label>Sleep</label>
+            <color>FFFF66</color>
+            <text>Would be great if you could sleep for two more hours</text>
+         </recommendation>
+         <recommendation>
+            <value />
+            <label />
+            <color />
+            <text />
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>3ofHoazhhbpMfeA4bKjIRw</id>
+      <patient_id>111112^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111112</member_id>
+      <weekly_index_value>520</weekly_index_value>
+      <weekly_index_level>4</weekly_index_level>
+      <weekly_index_level_label>Great</weekly_index_level_label>
+      <weekly_index_color>99FF66</weekly_index_color>
+      <week_start_date>2015-02-23</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>60</value>
+            <label>Sleep</label>
+            <color>FFFF66</color>
+            <text>Would be great if you could sleep for two more hours</text>
+         </recommendation>
+         <recommendation>
+            <value />
+            <label />
+            <color />
+            <text />
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>3ofHoazhhbpMfeA4bKjIRw</id>
+      <patient_id>111112^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111112</member_id>
+      <weekly_index_value>550</weekly_index_value>
+      <weekly_index_level>4</weekly_index_level>
+      <weekly_index_level_label>Great</weekly_index_level_label>
+      <weekly_index_color>99FF66</weekly_index_color>
+      <week_start_date>2015-03-02</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>70</value>
+            <label>Sleep</label>
+            <color>FFFF67</color>
+            <text>Would be great if you could sleep for two more hours</text>
+         </recommendation>
+         <recommendation>
+            <value />
+            <label />
+            <color />
+            <text />
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>3ofHoazhhbpMfeA4bKjIRw</id>
+      <patient_id>111112^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111112</member_id>
+      <weekly_index_value>570</weekly_index_value>
+      <weekly_index_level>4</weekly_index_level>
+      <weekly_index_level_label>Great</weekly_index_level_label>
+      <weekly_index_color>99FF66</weekly_index_color>
+      <week_start_date>2015-03-09</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>70</value>
+            <label>Sleep</label>
+            <color>FFFF68</color>
+            <text>Would be great if you could sleep for two more hours</text>
+         </recommendation>
+         <recommendation>
+            <value />
+            <label />
+            <color />
+            <text />
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>ZbMSbS1CCphqqdEyxgjXpg</id>
+      <patient_id>111113^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111113</member_id>
+      <weekly_index_value>380</weekly_index_value>
+      <weekly_index_level>3</weekly_index_level>
+      <weekly_index_level_label>Almost there</weekly_index_level_label>
+      <weekly_index_color>FFFF66</weekly_index_color>
+      <week_start_date>2015-01-12</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>40</value>
+            <label>Water</label>
+            <color>FF9933</color>
+            <text>Your body needs much more water</text>
+         </recommendation>
+         <recommendation>
+            <value />
+            <label />
+            <color />
+            <text />
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>ZbMSbS1CCphqqdEyxgjXpg</id>
+      <patient_id>111113^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111113</member_id>
+      <weekly_index_value>420</weekly_index_value>
+      <weekly_index_level>3</weekly_index_level>
+      <weekly_index_level_label>Almost there</weekly_index_level_label>
+      <weekly_index_color>FFFF66</weekly_index_color>
+      <week_start_date>2015-01-19</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>40</value>
+            <label>Water</label>
+            <color>FF9933</color>
+            <text>Your body needs much more water</text>
+         </recommendation>
+         <recommendation>
+            <value />
+            <label />
+            <color />
+            <text />
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>ZbMSbS1CCphqqdEyxgjXpg</id>
+      <patient_id>111113^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111113</member_id>
+      <weekly_index_value>450</weekly_index_value>
+      <weekly_index_level>4</weekly_index_level>
+      <weekly_index_level_label>Great</weekly_index_level_label>
+      <weekly_index_color>99FF66</weekly_index_color>
+      <week_start_date>2015-01-26</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>50</value>
+            <label>Water</label>
+            <color>FF9933</color>
+            <text>Your body needs much more water</text>
+         </recommendation>
+         <recommendation>
+            <value />
+            <label />
+            <color />
+            <text />
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>ZbMSbS1CCphqqdEyxgjXpg</id>
+      <patient_id>111113^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111113</member_id>
+      <weekly_index_value>480</weekly_index_value>
+      <weekly_index_level>4</weekly_index_level>
+      <weekly_index_level_label>Great</weekly_index_level_label>
+      <weekly_index_color>99FF66</weekly_index_color>
+      <week_start_date>2015-02-02</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>50</value>
+            <label>Water</label>
+            <color>FF9933</color>
+            <text>Your body needs much more water</text>
+         </recommendation>
+         <recommendation>
+            <value />
+            <label />
+            <color />
+            <text />
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>ZbMSbS1CCphqqdEyxgjXpg</id>
+      <patient_id>111113^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111113</member_id>
+      <weekly_index_value>420</weekly_index_value>
+      <weekly_index_level>3</weekly_index_level>
+      <weekly_index_level_label>Almost there</weekly_index_level_label>
+      <weekly_index_color>FFFF66</weekly_index_color>
+      <week_start_date>2015-02-09</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>60</value>
+            <label>Water</label>
+            <color>FF9933</color>
+            <text>Your body needs much more water</text>
+         </recommendation>
+         <recommendation>
+            <value />
+            <label />
+            <color />
+            <text />
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>ZbMSbS1CCphqqdEyxgjXpg</id>
+      <patient_id>111113^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111113</member_id>
+      <weekly_index_value>430</weekly_index_value>
+      <weekly_index_level>3</weekly_index_level>
+      <weekly_index_level_label>Almost there</weekly_index_level_label>
+      <weekly_index_color>FFFF66</weekly_index_color>
+      <week_start_date>2015-02-16</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>75</value>
+            <label>Water</label>
+            <color>99FF66</color>
+            <text>Good job - just a few more glasses of water</text>
+         </recommendation>
+         <recommendation>
+            <value />
+            <label />
+            <color />
+            <text />
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>ZbMSbS1CCphqqdEyxgjXpg</id>
+      <patient_id>111113^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111113</member_id>
+      <weekly_index_value>460</weekly_index_value>
+      <weekly_index_level>4</weekly_index_level>
+      <weekly_index_level_label>Great</weekly_index_level_label>
+      <weekly_index_color>99FF66</weekly_index_color>
+      <week_start_date>2015-02-23</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>75</value>
+            <label>Water</label>
+            <color>99FF66</color>
+            <text>Good job - just a few more glasses of water</text>
+         </recommendation>
+         <recommendation>
+            <value />
+            <label />
+            <color />
+            <text />
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>ZbMSbS1CCphqqdEyxgjXpg</id>
+      <patient_id>111113^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111113</member_id>
+      <weekly_index_value>480</weekly_index_value>
+      <weekly_index_level>4</weekly_index_level>
+      <weekly_index_level_label>Great</weekly_index_level_label>
+      <weekly_index_color>99FF66</weekly_index_color>
+      <week_start_date>2015-03-02</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>75</value>
+            <label>Water</label>
+            <color>99FF66</color>
+            <text>Good job - just a few more glasses of water</text>
+         </recommendation>
+         <recommendation>
+            <value />
+            <label />
+            <color />
+            <text />
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>ZbMSbS1CCphqqdEyxgjXpg</id>
+      <patient_id>111113^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111113</member_id>
+      <weekly_index_value>510</weekly_index_value>
+      <weekly_index_level>4</weekly_index_level>
+      <weekly_index_level_label>Great</weekly_index_level_label>
+      <weekly_index_color>99FF66</weekly_index_color>
+      <week_start_date>2015-03-09</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>75</value>
+            <label>Water</label>
+            <color>99FF66</color>
+            <text>Good job - just a few more glasses of water</text>
+         </recommendation>
+         <recommendation>
+            <value />
+            <label />
+            <color />
+            <text />
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>aojHXGLzQ4lwNFgcB8SY1Q</id>
+      <patient_id>111114^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111114</member_id>
+      <weekly_index_value>380</weekly_index_value>
+      <weekly_index_level>3</weekly_index_level>
+      <weekly_index_level_label>Almost there</weekly_index_level_label>
+      <weekly_index_color>FFFF66</weekly_index_color>
+      <week_start_date>2015-01-12</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>40</value>
+            <label>Water</label>
+            <color>FF9933</color>
+            <text>Your body needs much more water</text>
+         </recommendation>
+         <recommendation>
+            <value />
+            <label />
+            <color />
+            <text />
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>aojHXGLzQ4lwNFgcB8SY1Q</id>
+      <patient_id>111114^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111114</member_id>
+      <weekly_index_value>390</weekly_index_value>
+      <weekly_index_level>3</weekly_index_level>
+      <weekly_index_level_label>Almost there</weekly_index_level_label>
+      <weekly_index_color>FFFF66</weekly_index_color>
+      <week_start_date>2015-01-19</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>40</value>
+            <label>Water</label>
+            <color>FF9933</color>
+            <text>Your body needs much more water</text>
+         </recommendation>
+         <recommendation>
+            <value />
+            <label />
+            <color />
+            <text />
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>aojHXGLzQ4lwNFgcB8SY1Q</id>
+      <patient_id>111114^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111114</member_id>
+      <weekly_index_value>410</weekly_index_value>
+      <weekly_index_level>3</weekly_index_level>
+      <weekly_index_level_label>Almost there</weekly_index_level_label>
+      <weekly_index_color>FFFF66</weekly_index_color>
+      <week_start_date>2015-01-26</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>50</value>
+            <label>Water</label>
+            <color>FF9933</color>
+            <text>Your body needs much more water</text>
+         </recommendation>
+         <recommendation>
+            <value />
+            <label />
+            <color />
+            <text />
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>aojHXGLzQ4lwNFgcB8SY1Q</id>
+      <patient_id>111114^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111114</member_id>
+      <weekly_index_value>380</weekly_index_value>
+      <weekly_index_level>3</weekly_index_level>
+      <weekly_index_level_label>Almost there</weekly_index_level_label>
+      <weekly_index_color>FFFF66</weekly_index_color>
+      <week_start_date>2015-02-02</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>50</value>
+            <label>Water</label>
+            <color>FF9933</color>
+            <text>Your body needs much more water</text>
+         </recommendation>
+         <recommendation>
+            <value />
+            <label />
+            <color />
+            <text />
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>aojHXGLzQ4lwNFgcB8SY1Q</id>
+      <patient_id>111114^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111114</member_id>
+      <weekly_index_value>410</weekly_index_value>
+      <weekly_index_level>3</weekly_index_level>
+      <weekly_index_level_label>Almost there</weekly_index_level_label>
+      <weekly_index_color>FFFF66</weekly_index_color>
+      <week_start_date>2015-02-09</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>60</value>
+            <label>Water</label>
+            <color>FF9933</color>
+            <text>Your body needs much more water</text>
+         </recommendation>
+         <recommendation>
+            <value />
+            <label />
+            <color />
+            <text />
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>aojHXGLzQ4lwNFgcB8SY1Q</id>
+      <patient_id>111114^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111114</member_id>
+      <weekly_index_value>420</weekly_index_value>
+      <weekly_index_level>3</weekly_index_level>
+      <weekly_index_level_label>Almost there</weekly_index_level_label>
+      <weekly_index_color>FFFF66</weekly_index_color>
+      <week_start_date>2015-02-16</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>75</value>
+            <label>Water</label>
+            <color>99FF66</color>
+            <text>Good job - just a few more glasses of water</text>
+         </recommendation>
+         <recommendation>
+            <value />
+            <label />
+            <color />
+            <text />
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>aojHXGLzQ4lwNFgcB8SY1Q</id>
+      <patient_id>111114^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111114</member_id>
+      <weekly_index_value>330</weekly_index_value>
+      <weekly_index_level>2</weekly_index_level>
+      <weekly_index_level_label>More effort needed</weekly_index_level_label>
+      <weekly_index_color>FF9933</weekly_index_color>
+      <week_start_date>2015-02-23</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>75</value>
+            <label>Water</label>
+            <color>99FF66</color>
+            <text>Good job - just a few more glasses of water</text>
+         </recommendation>
+         <recommendation>
+            <value />
+            <label />
+            <color />
+            <text />
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>aojHXGLzQ4lwNFgcB8SY1Q</id>
+      <patient_id>111114^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111114</member_id>
+      <weekly_index_value>320</weekly_index_value>
+      <weekly_index_level>2</weekly_index_level>
+      <weekly_index_level_label>More effort needed</weekly_index_level_label>
+      <weekly_index_color>FF9933</weekly_index_color>
+      <week_start_date>2015-03-02</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>75</value>
+            <label>Water</label>
+            <color>99FF66</color>
+            <text>Good job - just a few more glasses of water</text>
+         </recommendation>
+         <recommendation>
+            <value />
+            <label />
+            <color />
+            <text />
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>aojHXGLzQ4lwNFgcB8SY1Q</id>
+      <patient_id>111114^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111114</member_id>
+      <weekly_index_value>350</weekly_index_value>
+      <weekly_index_level>3</weekly_index_level>
+      <weekly_index_level_label>Almost there</weekly_index_level_label>
+      <weekly_index_color>FFFF66</weekly_index_color>
+      <week_start_date>2015-03-09</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>75</value>
+            <label>Water</label>
+            <color>99FF66</color>
+            <text>Good job - just a few more glasses of water</text>
+         </recommendation>
+         <recommendation>
+            <value />
+            <label />
+            <color />
+            <text />
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>4zElBxAesKx976eTJSPVhw</id>
+      <patient_id>111115^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111115</member_id>
+      <weekly_index_value>300</weekly_index_value>
+      <weekly_index_level>2</weekly_index_level>
+      <weekly_index_level_label>More effort needed</weekly_index_level_label>
+      <weekly_index_color>FF9933</weekly_index_color>
+      <week_start_date>2015-01-12</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>60</value>
+            <label>Steps</label>
+            <color>FFFF66</color>
+            <text>Good. You are getting there</text>
+         </recommendation>
+         <recommendation>
+            <value />
+            <label />
+            <color />
+            <text />
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>4zElBxAesKx976eTJSPVhw</id>
+      <patient_id>111115^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111115</member_id>
+      <weekly_index_value>310</weekly_index_value>
+      <weekly_index_level>2</weekly_index_level>
+      <weekly_index_level_label>More effort needed</weekly_index_level_label>
+      <weekly_index_color>FF9933</weekly_index_color>
+      <week_start_date>2015-01-19</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>70</value>
+            <label>Steps</label>
+            <color>FFFF66</color>
+            <text>Good. You are getting there</text>
+         </recommendation>
+         <recommendation>
+            <value />
+            <label />
+            <color />
+            <text />
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>4zElBxAesKx976eTJSPVhw</id>
+      <patient_id>111115^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111115</member_id>
+      <weekly_index_value>340</weekly_index_value>
+      <weekly_index_level>2</weekly_index_level>
+      <weekly_index_level_label>More effort needed</weekly_index_level_label>
+      <weekly_index_color>FF9933</weekly_index_color>
+      <week_start_date>2015-01-26</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>80</value>
+            <label>Steps</label>
+            <color>FFFF66</color>
+            <text>Good. You are getting there</text>
+         </recommendation>
+         <recommendation>
+            <value />
+            <label />
+            <color />
+            <text />
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>4zElBxAesKx976eTJSPVhw</id>
+      <patient_id>111115^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111115</member_id>
+      <weekly_index_value>370</weekly_index_value>
+      <weekly_index_level>3</weekly_index_level>
+      <weekly_index_level_label>Almost there</weekly_index_level_label>
+      <weekly_index_color>FFFF66</weekly_index_color>
+      <week_start_date>2015-02-02</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>60</value>
+            <label>Steps</label>
+            <color>FFFF66</color>
+            <text>Good. You are getting there</text>
+         </recommendation>
+         <recommendation>
+            <value />
+            <label />
+            <color />
+            <text />
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>4zElBxAesKx976eTJSPVhw</id>
+      <patient_id>111115^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111115</member_id>
+      <weekly_index_value>400</weekly_index_value>
+      <weekly_index_level>3</weekly_index_level>
+      <weekly_index_level_label>Almost there</weekly_index_level_label>
+      <weekly_index_color>FFFF66</weekly_index_color>
+      <week_start_date>2015-02-09</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>70</value>
+            <label>Steps</label>
+            <color>FFFF66</color>
+            <text>Good. You are getting there</text>
+         </recommendation>
+         <recommendation>
+            <value />
+            <label />
+            <color />
+            <text />
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>4zElBxAesKx976eTJSPVhw</id>
+      <patient_id>111115^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111115</member_id>
+      <weekly_index_value>430</weekly_index_value>
+      <weekly_index_level>3</weekly_index_level>
+      <weekly_index_level_label>Almost there</weekly_index_level_label>
+      <weekly_index_color>FFFF66</weekly_index_color>
+      <week_start_date>2015-02-16</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>95</value>
+            <label>Steps</label>
+            <color>FFFF66</color>
+            <text>Good. You are getting there</text>
+         </recommendation>
+         <recommendation>
+            <value />
+            <label />
+            <color />
+            <text />
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>4zElBxAesKx976eTJSPVhw</id>
+      <patient_id>111115^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111115</member_id>
+      <weekly_index_value>450</weekly_index_value>
+      <weekly_index_level>4</weekly_index_level>
+      <weekly_index_level_label>Great</weekly_index_level_label>
+      <weekly_index_color>99FF66</weekly_index_color>
+      <week_start_date>2015-02-23</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>60</value>
+            <label>Steps</label>
+            <color>FFFF66</color>
+            <text>Good. You are getting there</text>
+         </recommendation>
+         <recommendation>
+            <value />
+            <label />
+            <color />
+            <text />
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>4zElBxAesKx976eTJSPVhw</id>
+      <patient_id>111115^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111115</member_id>
+      <weekly_index_value>480</weekly_index_value>
+      <weekly_index_level>4</weekly_index_level>
+      <weekly_index_level_label>Great</weekly_index_level_label>
+      <weekly_index_color>99FF66</weekly_index_color>
+      <week_start_date>2015-03-02</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>70</value>
+            <label>Steps</label>
+            <color>FFFF66</color>
+            <text>Good. You are getting there</text>
+         </recommendation>
+         <recommendation>
+            <value />
+            <label />
+            <color />
+            <text />
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>4zElBxAesKx976eTJSPVhw</id>
+      <patient_id>111115^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111115</member_id>
+      <weekly_index_value>510</weekly_index_value>
+      <weekly_index_level>4</weekly_index_level>
+      <weekly_index_level_label>Great</weekly_index_level_label>
+      <weekly_index_color>99FF66</weekly_index_color>
+      <week_start_date>2015-03-09</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>95</value>
+            <label>Steps</label>
+            <color>FFFF66</color>
+            <text>Good. You are getting there</text>
+         </recommendation>
+         <recommendation>
+            <value />
+            <label />
+            <color />
+            <text />
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>HM9P6LRA8yVNyCWkGmBpNw</id>
+      <patient_id>111116^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111116</member_id>
+      <weekly_index_value>400</weekly_index_value>
+      <weekly_index_level>3</weekly_index_level>
+      <weekly_index_level_label>Almost there</weekly_index_level_label>
+      <weekly_index_color>FFFF66</weekly_index_color>
+      <week_start_date>2015-01-12</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>60</value>
+            <label>Steps</label>
+            <color>FFFF66</color>
+            <text>Good. You are getting there</text>
+         </recommendation>
+         <recommendation>
+            <value>75</value>
+            <label>Water</label>
+            <color>99FF66</color>
+            <text>Good job - just a few more glasses of water</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>HM9P6LRA8yVNyCWkGmBpNw</id>
+      <patient_id>111116^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111116</member_id>
+      <weekly_index_value>430</weekly_index_value>
+      <weekly_index_level>3</weekly_index_level>
+      <weekly_index_level_label>Almost there</weekly_index_level_label>
+      <weekly_index_color>FFFF66</weekly_index_color>
+      <week_start_date>2015-01-19</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>70</value>
+            <label>Steps</label>
+            <color>FFFF66</color>
+            <text>Good. You are getting there</text>
+         </recommendation>
+         <recommendation>
+            <value>60</value>
+            <label>Water</label>
+            <color>99FF66</color>
+            <text>Good job - just a few more glasses of water</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>HM9P6LRA8yVNyCWkGmBpNw</id>
+      <patient_id>111116^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111116</member_id>
+      <weekly_index_value>460</weekly_index_value>
+      <weekly_index_level>4</weekly_index_level>
+      <weekly_index_level_label>Great</weekly_index_level_label>
+      <weekly_index_color>99FF66</weekly_index_color>
+      <week_start_date>2015-01-26</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>80</value>
+            <label>Steps</label>
+            <color>FFFF66</color>
+            <text>Good. You are getting there</text>
+         </recommendation>
+         <recommendation>
+            <value>80</value>
+            <label>Water</label>
+            <color>99FF66</color>
+            <text>Good job - just a few more glasses of water</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>HM9P6LRA8yVNyCWkGmBpNw</id>
+      <patient_id>111116^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111116</member_id>
+      <weekly_index_value>530</weekly_index_value>
+      <weekly_index_level>4</weekly_index_level>
+      <weekly_index_level_label>Great</weekly_index_level_label>
+      <weekly_index_color>99FF66</weekly_index_color>
+      <week_start_date>2015-02-02</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>60</value>
+            <label>Steps</label>
+            <color>FFFF66</color>
+            <text>Good. You are getting there</text>
+         </recommendation>
+         <recommendation>
+            <value>75</value>
+            <label>Water</label>
+            <color>99FF66</color>
+            <text>Good job - just a few more glasses of water</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>HM9P6LRA8yVNyCWkGmBpNw</id>
+      <patient_id>111116^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111116</member_id>
+      <weekly_index_value>550</weekly_index_value>
+      <weekly_index_level>4</weekly_index_level>
+      <weekly_index_level_label>Great</weekly_index_level_label>
+      <weekly_index_color>99FF66</weekly_index_color>
+      <week_start_date>2015-02-09</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>70</value>
+            <label>Steps</label>
+            <color>FFFF66</color>
+            <text>Good. You are getting there</text>
+         </recommendation>
+         <recommendation>
+            <value>75</value>
+            <label>Water</label>
+            <color>99FF66</color>
+            <text>Good job - just a few more glasses of water</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>HM9P6LRA8yVNyCWkGmBpNw</id>
+      <patient_id>111116^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111116</member_id>
+      <weekly_index_value>580</weekly_index_value>
+      <weekly_index_level>4</weekly_index_level>
+      <weekly_index_level_label>Great</weekly_index_level_label>
+      <weekly_index_color>99FF66</weekly_index_color>
+      <week_start_date>2015-02-16</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>95</value>
+            <label>Steps</label>
+            <color>FFFF66</color>
+            <text>Good. You are getting there</text>
+         </recommendation>
+         <recommendation>
+            <value>85</value>
+            <label>Water</label>
+            <color>99FF66</color>
+            <text>Good job - just a few more glasses of water</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>HM9P6LRA8yVNyCWkGmBpNw</id>
+      <patient_id>111116^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111116</member_id>
+      <weekly_index_value>610</weekly_index_value>
+      <weekly_index_level>5</weekly_index_level>
+      <weekly_index_level_label>Excellent</weekly_index_level_label>
+      <weekly_index_color>00FF00</weekly_index_color>
+      <week_start_date>2015-02-23</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>60</value>
+            <label>Steps</label>
+            <color>FFFF66</color>
+            <text>Good. You are getting there</text>
+         </recommendation>
+         <recommendation>
+            <value>75</value>
+            <label>Water</label>
+            <color>99FF66</color>
+            <text>Good job - just a few more glasses of water</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>HM9P6LRA8yVNyCWkGmBpNw</id>
+      <patient_id>111116^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111116</member_id>
+      <weekly_index_value>640</weekly_index_value>
+      <weekly_index_level>5</weekly_index_level>
+      <weekly_index_level_label>Excellent</weekly_index_level_label>
+      <weekly_index_color>00FF00</weekly_index_color>
+      <week_start_date>2015-03-02</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>70</value>
+            <label>Steps</label>
+            <color>FFFF66</color>
+            <text>Good. You are getting there</text>
+         </recommendation>
+         <recommendation>
+            <value>75</value>
+            <label>Water</label>
+            <color>99FF66</color>
+            <text>Good job - just a few more glasses of water</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>HM9P6LRA8yVNyCWkGmBpNw</id>
+      <patient_id>111116^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111116</member_id>
+      <weekly_index_value>670</weekly_index_value>
+      <weekly_index_level>5</weekly_index_level>
+      <weekly_index_level_label>Excellent</weekly_index_level_label>
+      <weekly_index_color>00FF00</weekly_index_color>
+      <week_start_date>2015-03-09</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>95</value>
+            <label>Steps</label>
+            <color>FFFF66</color>
+            <text>Good. You are getting there</text>
+         </recommendation>
+         <recommendation>
+            <value>85</value>
+            <label>Water</label>
+            <color>99FF66</color>
+            <text>Good job - just a few more glasses of water</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>bwYiw741boDOJUmpxbclkQ</id>
+      <patient_id>111117^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111117</member_id>
+      <weekly_index_value>340</weekly_index_value>
+      <weekly_index_level>2</weekly_index_level>
+      <weekly_index_level_label>More effort needed</weekly_index_level_label>
+      <weekly_index_color>FF9933</weekly_index_color>
+      <week_start_date>2015-01-12</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>40</value>
+            <label>Water</label>
+            <color>FF9933</color>
+            <text>Your body needs much more water</text>
+         </recommendation>
+         <recommendation>
+            <value>40</value>
+            <label>Sleep</label>
+            <color>FF9933</color>
+            <text>Would be great if you could sleep for four more hours</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>bwYiw741boDOJUmpxbclkQ</id>
+      <patient_id>111117^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111117</member_id>
+      <weekly_index_value>370</weekly_index_value>
+      <weekly_index_level>3</weekly_index_level>
+      <weekly_index_level_label>Almost there</weekly_index_level_label>
+      <weekly_index_color>FFFF66</weekly_index_color>
+      <week_start_date>2015-01-19</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>40</value>
+            <label>Water</label>
+            <color>FF9933</color>
+            <text>Your body needs much more water</text>
+         </recommendation>
+         <recommendation>
+            <value>50</value>
+            <label>Sleep</label>
+            <color>FF9933</color>
+            <text>Would be great if you could sleep for four more hours</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>bwYiw741boDOJUmpxbclkQ</id>
+      <patient_id>111117^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111117</member_id>
+      <weekly_index_value>400</weekly_index_value>
+      <weekly_index_level>3</weekly_index_level>
+      <weekly_index_level_label>Almost there</weekly_index_level_label>
+      <weekly_index_color>FFFF66</weekly_index_color>
+      <week_start_date>2015-01-26</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>50</value>
+            <label>Water</label>
+            <color>FF9933</color>
+            <text>Your body needs much more water</text>
+         </recommendation>
+         <recommendation>
+            <value>50</value>
+            <label>Sleep</label>
+            <color>FFFF66</color>
+            <text>Would be great if you could sleep for two more hours</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>bwYiw741boDOJUmpxbclkQ</id>
+      <patient_id>111117^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111117</member_id>
+      <weekly_index_value>450</weekly_index_value>
+      <weekly_index_level>4</weekly_index_level>
+      <weekly_index_level_label>Great</weekly_index_level_label>
+      <weekly_index_color>99FF66</weekly_index_color>
+      <week_start_date>2015-02-02</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>50</value>
+            <label>Water</label>
+            <color>FF9933</color>
+            <text>Your body needs much more water</text>
+         </recommendation>
+         <recommendation>
+            <value>50</value>
+            <label>Sleep</label>
+            <color>FFFF66</color>
+            <text>Would be great if you could sleep for two more hours</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>bwYiw741boDOJUmpxbclkQ</id>
+      <patient_id>111117^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111117</member_id>
+      <weekly_index_value>400</weekly_index_value>
+      <weekly_index_level>3</weekly_index_level>
+      <weekly_index_level_label>Almost there</weekly_index_level_label>
+      <weekly_index_color>FFFF66</weekly_index_color>
+      <week_start_date>2015-02-09</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>60</value>
+            <label>Water</label>
+            <color>FF9933</color>
+            <text>Your body needs much more water</text>
+         </recommendation>
+         <recommendation>
+            <value>55</value>
+            <label>Sleep</label>
+            <color>FFFF66</color>
+            <text>Would be great if you could sleep for two more hours</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>bwYiw741boDOJUmpxbclkQ</id>
+      <patient_id>111117^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111117</member_id>
+      <weekly_index_value>430</weekly_index_value>
+      <weekly_index_level>3</weekly_index_level>
+      <weekly_index_level_label>Almost there</weekly_index_level_label>
+      <weekly_index_color>FFFF66</weekly_index_color>
+      <week_start_date>2015-02-16</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>75</value>
+            <label>Water</label>
+            <color>99FF66</color>
+            <text>Good job - just a few more glasses of water</text>
+         </recommendation>
+         <recommendation>
+            <value>60</value>
+            <label>Sleep</label>
+            <color>FFFF66</color>
+            <text>Would be great if you could sleep for two more hours</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>bwYiw741boDOJUmpxbclkQ</id>
+      <patient_id>111117^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111117</member_id>
+      <weekly_index_value>450</weekly_index_value>
+      <weekly_index_level>4</weekly_index_level>
+      <weekly_index_level_label>Great</weekly_index_level_label>
+      <weekly_index_color>99FF66</weekly_index_color>
+      <week_start_date>2015-02-23</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>75</value>
+            <label>Water</label>
+            <color>99FF66</color>
+            <text>Good job - just a few more glasses of water</text>
+         </recommendation>
+         <recommendation>
+            <value>60</value>
+            <label>Sleep</label>
+            <color>FFFF66</color>
+            <text>Would be great if you could sleep for two more hours</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>bwYiw741boDOJUmpxbclkQ</id>
+      <patient_id>111117^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111117</member_id>
+      <weekly_index_value>480</weekly_index_value>
+      <weekly_index_level>4</weekly_index_level>
+      <weekly_index_level_label>Great</weekly_index_level_label>
+      <weekly_index_color>99FF66</weekly_index_color>
+      <week_start_date>2015-03-02</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>75</value>
+            <label>Water</label>
+            <color>99FF66</color>
+            <text>Good job - just a few more glasses of water</text>
+         </recommendation>
+         <recommendation>
+            <value>70</value>
+            <label>Sleep</label>
+            <color>FFFF67</color>
+            <text>Would be great if you could sleep for two more hours</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>bwYiw741boDOJUmpxbclkQ</id>
+      <patient_id>111117^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111117</member_id>
+      <weekly_index_value>510</weekly_index_value>
+      <weekly_index_level>4</weekly_index_level>
+      <weekly_index_level_label>Great</weekly_index_level_label>
+      <weekly_index_color>99FF66</weekly_index_color>
+      <week_start_date>2015-03-09</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>75</value>
+            <label>Water</label>
+            <color>99FF66</color>
+            <text>Good job - just a few more glasses of water</text>
+         </recommendation>
+         <recommendation>
+            <value>70</value>
+            <label>Sleep</label>
+            <color>FFFF68</color>
+            <text>Would be great if you could sleep for two more hours</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>RWPmGBJCUqbdlLtApLXFiA</id>
+      <patient_id>111118^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111118</member_id>
+      <weekly_index_value>250</weekly_index_value>
+      <weekly_index_level>2</weekly_index_level>
+      <weekly_index_level_label>More effort needed</weekly_index_level_label>
+      <weekly_index_color>FF9933</weekly_index_color>
+      <week_start_date>2015-01-12</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>40</value>
+            <label>Sleep</label>
+            <color>FF9933</color>
+            <text>Would be great if you could sleep for four more hours</text>
+         </recommendation>
+         <recommendation>
+            <value>40</value>
+            <label>Water</label>
+            <color>FF9933</color>
+            <text>Your body needs much more water</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>RWPmGBJCUqbdlLtApLXFiA</id>
+      <patient_id>111118^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111118</member_id>
+      <weekly_index_value>280</weekly_index_value>
+      <weekly_index_level>2</weekly_index_level>
+      <weekly_index_level_label>More effort needed</weekly_index_level_label>
+      <weekly_index_color>FF9933</weekly_index_color>
+      <week_start_date>2015-01-19</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>50</value>
+            <label>Sleep</label>
+            <color>FF9933</color>
+            <text>Would be great if you could sleep for four more hours</text>
+         </recommendation>
+         <recommendation>
+            <value>40</value>
+            <label>Water</label>
+            <color>FF9933</color>
+            <text>Your body needs much more water</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>RWPmGBJCUqbdlLtApLXFiA</id>
+      <patient_id>111118^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111118</member_id>
+      <weekly_index_value>310</weekly_index_value>
+      <weekly_index_level>2</weekly_index_level>
+      <weekly_index_level_label>More effort needed</weekly_index_level_label>
+      <weekly_index_color>FF9933</weekly_index_color>
+      <week_start_date>2015-01-26</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>50</value>
+            <label>Sleep</label>
+            <color>FFFF66</color>
+            <text>Would be great if you could sleep for two more hours</text>
+         </recommendation>
+         <recommendation>
+            <value>50</value>
+            <label>Water</label>
+            <color>FF9933</color>
+            <text>Your body needs much more water</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>RWPmGBJCUqbdlLtApLXFiA</id>
+      <patient_id>111118^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111118</member_id>
+      <weekly_index_value>330</weekly_index_value>
+      <weekly_index_level>2</weekly_index_level>
+      <weekly_index_level_label>More effort needed</weekly_index_level_label>
+      <weekly_index_color>FF9933</weekly_index_color>
+      <week_start_date>2015-02-02</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>50</value>
+            <label>Sleep</label>
+            <color>FFFF66</color>
+            <text>Would be great if you could sleep for two more hours</text>
+         </recommendation>
+         <recommendation>
+            <value>50</value>
+            <label>Water</label>
+            <color>FF9933</color>
+            <text>Your body needs much more water</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>RWPmGBJCUqbdlLtApLXFiA</id>
+      <patient_id>111118^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111118</member_id>
+      <weekly_index_value>380</weekly_index_value>
+      <weekly_index_level>3</weekly_index_level>
+      <weekly_index_level_label>Almost there</weekly_index_level_label>
+      <weekly_index_color>FFFF66</weekly_index_color>
+      <week_start_date>2015-02-09</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>55</value>
+            <label>Sleep</label>
+            <color>FFFF66</color>
+            <text>Would be great if you could sleep for two more hours</text>
+         </recommendation>
+         <recommendation>
+            <value>60</value>
+            <label>Water</label>
+            <color>FF9933</color>
+            <text>Your body needs much more water</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>RWPmGBJCUqbdlLtApLXFiA</id>
+      <patient_id>111118^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111118</member_id>
+      <weekly_index_value>430</weekly_index_value>
+      <weekly_index_level>3</weekly_index_level>
+      <weekly_index_level_label>Almost there</weekly_index_level_label>
+      <weekly_index_color>FFFF66</weekly_index_color>
+      <week_start_date>2015-02-16</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>60</value>
+            <label>Sleep</label>
+            <color>FFFF66</color>
+            <text>Would be great if you could sleep for two more hours</text>
+         </recommendation>
+         <recommendation>
+            <value>75</value>
+            <label>Water</label>
+            <color>99FF66</color>
+            <text>Good job - just a few more glasses of water</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>RWPmGBJCUqbdlLtApLXFiA</id>
+      <patient_id>111118^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111118</member_id>
+      <weekly_index_value>460</weekly_index_value>
+      <weekly_index_level>4</weekly_index_level>
+      <weekly_index_level_label>Great</weekly_index_level_label>
+      <weekly_index_color>99FF66</weekly_index_color>
+      <week_start_date>2015-02-23</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>60</value>
+            <label>Sleep</label>
+            <color>FFFF66</color>
+            <text>Would be great if you could sleep for two more hours</text>
+         </recommendation>
+         <recommendation>
+            <value>75</value>
+            <label>Water</label>
+            <color>99FF66</color>
+            <text>Good job - just a few more glasses of water</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>RWPmGBJCUqbdlLtApLXFiA</id>
+      <patient_id>111118^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111118</member_id>
+      <weekly_index_value>490</weekly_index_value>
+      <weekly_index_level>4</weekly_index_level>
+      <weekly_index_level_label>Great</weekly_index_level_label>
+      <weekly_index_color>99FF66</weekly_index_color>
+      <week_start_date>2015-03-02</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>70</value>
+            <label>Sleep</label>
+            <color>FFFF67</color>
+            <text>Would be great if you could sleep for two more hours</text>
+         </recommendation>
+         <recommendation>
+            <value>75</value>
+            <label>Water</label>
+            <color>99FF66</color>
+            <text>Good job - just a few more glasses of water</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>RWPmGBJCUqbdlLtApLXFiA</id>
+      <patient_id>111118^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111118</member_id>
+      <weekly_index_value>510</weekly_index_value>
+      <weekly_index_level>4</weekly_index_level>
+      <weekly_index_level_label>Great</weekly_index_level_label>
+      <weekly_index_color>99FF66</weekly_index_color>
+      <week_start_date>2015-03-09</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>70</value>
+            <label>Sleep</label>
+            <color>FFFF68</color>
+            <text>Would be great if you could sleep for two more hours</text>
+         </recommendation>
+         <recommendation>
+            <value>75</value>
+            <label>Water</label>
+            <color>99FF66</color>
+            <text>Good job - just a few more glasses of water</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>0bkkluLoWN1aefq9Fb8rAQ</id>
+      <patient_id>111119^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111119</member_id>
+      <weekly_index_value>410</weekly_index_value>
+      <weekly_index_level>3</weekly_index_level>
+      <weekly_index_level_label>Almost there</weekly_index_level_label>
+      <weekly_index_color>FFFF66</weekly_index_color>
+      <week_start_date>2015-01-12</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>40</value>
+            <label>Water</label>
+            <color>FF9933</color>
+            <text>Your body needs much more water</text>
+         </recommendation>
+         <recommendation>
+            <value>40</value>
+            <label>Sleep</label>
+            <color>FF9933</color>
+            <text>Would be great if you could sleep for four more hours</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>0bkkluLoWN1aefq9Fb8rAQ</id>
+      <patient_id>111119^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111119</member_id>
+      <weekly_index_value>480</weekly_index_value>
+      <weekly_index_level>4</weekly_index_level>
+      <weekly_index_level_label>Great</weekly_index_level_label>
+      <weekly_index_color>99FF66</weekly_index_color>
+      <week_start_date>2015-01-19</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>40</value>
+            <label>Water</label>
+            <color>FF9933</color>
+            <text>Your body needs much more water</text>
+         </recommendation>
+         <recommendation>
+            <value>50</value>
+            <label>Sleep</label>
+            <color>FF9933</color>
+            <text>Would be great if you could sleep for four more hours</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>0bkkluLoWN1aefq9Fb8rAQ</id>
+      <patient_id>111119^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111119</member_id>
+      <weekly_index_value>510</weekly_index_value>
+      <weekly_index_level>4</weekly_index_level>
+      <weekly_index_level_label>Great</weekly_index_level_label>
+      <weekly_index_color>99FF66</weekly_index_color>
+      <week_start_date>2015-01-26</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>50</value>
+            <label>Water</label>
+            <color>FF9933</color>
+            <text>Your body needs much more water</text>
+         </recommendation>
+         <recommendation>
+            <value>50</value>
+            <label>Sleep</label>
+            <color>FFFF66</color>
+            <text>Would be great if you could sleep for two more hours</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>0bkkluLoWN1aefq9Fb8rAQ</id>
+      <patient_id>111119^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111119</member_id>
+      <weekly_index_value>500</weekly_index_value>
+      <weekly_index_level>4</weekly_index_level>
+      <weekly_index_level_label>Great</weekly_index_level_label>
+      <weekly_index_color>99FF66</weekly_index_color>
+      <week_start_date>2015-02-02</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>50</value>
+            <label>Water</label>
+            <color>FF9933</color>
+            <text>Your body needs much more water</text>
+         </recommendation>
+         <recommendation>
+            <value>50</value>
+            <label>Sleep</label>
+            <color>FFFF66</color>
+            <text>Would be great if you could sleep for two more hours</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>0bkkluLoWN1aefq9Fb8rAQ</id>
+      <patient_id>111119^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111119</member_id>
+      <weekly_index_value>540</weekly_index_value>
+      <weekly_index_level>4</weekly_index_level>
+      <weekly_index_level_label>Great</weekly_index_level_label>
+      <weekly_index_color>99FF66</weekly_index_color>
+      <week_start_date>2015-02-09</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>60</value>
+            <label>Water</label>
+            <color>FF9933</color>
+            <text>Your body needs much more water</text>
+         </recommendation>
+         <recommendation>
+            <value>55</value>
+            <label>Sleep</label>
+            <color>FFFF66</color>
+            <text>Would be great if you could sleep for two more hours</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>0bkkluLoWN1aefq9Fb8rAQ</id>
+      <patient_id>111119^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111119</member_id>
+      <weekly_index_value>590</weekly_index_value>
+      <weekly_index_level>4</weekly_index_level>
+      <weekly_index_level_label>Great</weekly_index_level_label>
+      <weekly_index_color>99FF66</weekly_index_color>
+      <week_start_date>2015-02-16</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>75</value>
+            <label>Water</label>
+            <color>99FF66</color>
+            <text>Good job - just a few more glasses of water</text>
+         </recommendation>
+         <recommendation>
+            <value>60</value>
+            <label>Sleep</label>
+            <color>FFFF66</color>
+            <text>Would be great if you could sleep for two more hours</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>0bkkluLoWN1aefq9Fb8rAQ</id>
+      <patient_id>111119^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111119</member_id>
+      <weekly_index_value>620</weekly_index_value>
+      <weekly_index_level>5</weekly_index_level>
+      <weekly_index_level_label>Excellent</weekly_index_level_label>
+      <weekly_index_color>00FF00</weekly_index_color>
+      <week_start_date>2015-02-23</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>75</value>
+            <label>Water</label>
+            <color>99FF66</color>
+            <text>Good job - just a few more glasses of water</text>
+         </recommendation>
+         <recommendation>
+            <value>60</value>
+            <label>Sleep</label>
+            <color>FFFF66</color>
+            <text>Would be great if you could sleep for two more hours</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>0bkkluLoWN1aefq9Fb8rAQ</id>
+      <patient_id>111119^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111119</member_id>
+      <weekly_index_value>600</weekly_index_value>
+      <weekly_index_level>5</weekly_index_level>
+      <weekly_index_level_label>Excellent</weekly_index_level_label>
+      <weekly_index_color>00FF00</weekly_index_color>
+      <week_start_date>2015-03-02</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>75</value>
+            <label>Water</label>
+            <color>99FF66</color>
+            <text>Good job - just a few more glasses of water</text>
+         </recommendation>
+         <recommendation>
+            <value>70</value>
+            <label>Sleep</label>
+            <color>FFFF67</color>
+            <text>Would be great if you could sleep for two more hours</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>0bkkluLoWN1aefq9Fb8rAQ</id>
+      <patient_id>111119^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111119</member_id>
+      <weekly_index_value>630</weekly_index_value>
+      <weekly_index_level>5</weekly_index_level>
+      <weekly_index_level_label>Excellent</weekly_index_level_label>
+      <weekly_index_color>00FF00</weekly_index_color>
+      <week_start_date>2015-03-09</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>75</value>
+            <label>Water</label>
+            <color>99FF66</color>
+            <text>Good job - just a few more glasses of water</text>
+         </recommendation>
+         <recommendation>
+            <value>70</value>
+            <label>Sleep</label>
+            <color>FFFF68</color>
+            <text>Would be great if you could sleep for two more hours</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>ZAlyiWPJXaMNGAb84ayvAQ</id>
+      <patient_id>111120^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111120</member_id>
+      <weekly_index_value>470</weekly_index_value>
+      <weekly_index_level>4</weekly_index_level>
+      <weekly_index_level_label>Great</weekly_index_level_label>
+      <weekly_index_color>99FF66</weekly_index_color>
+      <week_start_date>2015-01-12</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>60</value>
+            <label>Steps</label>
+            <color>FFFF66</color>
+            <text>Good. You are getting there</text>
+         </recommendation>
+         <recommendation>
+            <value>75</value>
+            <label>Water</label>
+            <color>99FF66</color>
+            <text>Good job - just a few more glasses of water</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>ZAlyiWPJXaMNGAb84ayvAQ</id>
+      <patient_id>111120^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111120</member_id>
+      <weekly_index_value>520</weekly_index_value>
+      <weekly_index_level>4</weekly_index_level>
+      <weekly_index_level_label>Great</weekly_index_level_label>
+      <weekly_index_color>99FF66</weekly_index_color>
+      <week_start_date>2015-01-19</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>70</value>
+            <label>Steps</label>
+            <color>FFFF66</color>
+            <text>Good. You are getting there</text>
+         </recommendation>
+         <recommendation>
+            <value>60</value>
+            <label>Water</label>
+            <color>99FF66</color>
+            <text>Good job - just a few more glasses of water</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>ZAlyiWPJXaMNGAb84ayvAQ</id>
+      <patient_id>111120^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111120</member_id>
+      <weekly_index_value>510</weekly_index_value>
+      <weekly_index_level>4</weekly_index_level>
+      <weekly_index_level_label>Great</weekly_index_level_label>
+      <weekly_index_color>99FF66</weekly_index_color>
+      <week_start_date>2015-01-26</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>80</value>
+            <label>Steps</label>
+            <color>FFFF66</color>
+            <text>Good. You are getting there</text>
+         </recommendation>
+         <recommendation>
+            <value>80</value>
+            <label>Water</label>
+            <color>99FF66</color>
+            <text>Good job - just a few more glasses of water</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>ZAlyiWPJXaMNGAb84ayvAQ</id>
+      <patient_id>111120^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111120</member_id>
+      <weekly_index_value>550</weekly_index_value>
+      <weekly_index_level>4</weekly_index_level>
+      <weekly_index_level_label>Great</weekly_index_level_label>
+      <weekly_index_color>99FF66</weekly_index_color>
+      <week_start_date>2015-02-02</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>60</value>
+            <label>Steps</label>
+            <color>FFFF66</color>
+            <text>Good. You are getting there</text>
+         </recommendation>
+         <recommendation>
+            <value>75</value>
+            <label>Water</label>
+            <color>99FF66</color>
+            <text>Good job - just a few more glasses of water</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>ZAlyiWPJXaMNGAb84ayvAQ</id>
+      <patient_id>111120^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111120</member_id>
+      <weekly_index_value>600</weekly_index_value>
+      <weekly_index_level>5</weekly_index_level>
+      <weekly_index_level_label>Excellent</weekly_index_level_label>
+      <weekly_index_color>00FF00</weekly_index_color>
+      <week_start_date>2015-02-09</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>70</value>
+            <label>Steps</label>
+            <color>FFFF66</color>
+            <text>Good. You are getting there</text>
+         </recommendation>
+         <recommendation>
+            <value>75</value>
+            <label>Water</label>
+            <color>99FF66</color>
+            <text>Good job - just a few more glasses of water</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>ZAlyiWPJXaMNGAb84ayvAQ</id>
+      <patient_id>111120^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111120</member_id>
+      <weekly_index_value>630</weekly_index_value>
+      <weekly_index_level>5</weekly_index_level>
+      <weekly_index_level_label>Excellent</weekly_index_level_label>
+      <weekly_index_color>00FF00</weekly_index_color>
+      <week_start_date>2015-02-16</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>95</value>
+            <label>Steps</label>
+            <color>FFFF66</color>
+            <text>Good. You are getting there</text>
+         </recommendation>
+         <recommendation>
+            <value>85</value>
+            <label>Water</label>
+            <color>99FF66</color>
+            <text>Good job - just a few more glasses of water</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>ZAlyiWPJXaMNGAb84ayvAQ</id>
+      <patient_id>111120^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111120</member_id>
+      <weekly_index_value>640</weekly_index_value>
+      <weekly_index_level>5</weekly_index_level>
+      <weekly_index_level_label>Excellent</weekly_index_level_label>
+      <weekly_index_color>00FF00</weekly_index_color>
+      <week_start_date>2015-02-23</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>60</value>
+            <label>Steps</label>
+            <color>FFFF66</color>
+            <text>Good. You are getting there</text>
+         </recommendation>
+         <recommendation>
+            <value>75</value>
+            <label>Water</label>
+            <color>99FF66</color>
+            <text>Good job - just a few more glasses of water</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>ZAlyiWPJXaMNGAb84ayvAQ</id>
+      <patient_id>111120^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111120</member_id>
+      <weekly_index_value>620</weekly_index_value>
+      <weekly_index_level>5</weekly_index_level>
+      <weekly_index_level_label>Excellent</weekly_index_level_label>
+      <weekly_index_color>00FF00</weekly_index_color>
+      <week_start_date>2015-03-02</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>70</value>
+            <label>Steps</label>
+            <color>FFFF66</color>
+            <text>Good. You are getting there</text>
+         </recommendation>
+         <recommendation>
+            <value>75</value>
+            <label>Water</label>
+            <color>99FF66</color>
+            <text>Good job - just a few more glasses of water</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>ZAlyiWPJXaMNGAb84ayvAQ</id>
+      <patient_id>111120^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111120</member_id>
+      <weekly_index_value>650</weekly_index_value>
+      <weekly_index_level>5</weekly_index_level>
+      <weekly_index_level_label>Excellent</weekly_index_level_label>
+      <weekly_index_color>00FF00</weekly_index_color>
+      <week_start_date>2015-03-09</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>95</value>
+            <label>Steps</label>
+            <color>FFFF66</color>
+            <text>Good. You are getting there</text>
+         </recommendation>
+         <recommendation>
+            <value>85</value>
+            <label>Water</label>
+            <color>99FF66</color>
+            <text>Good job - just a few more glasses of water</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>Atu5lKgz0uM3TfgxSWbf8w</id>
+      <patient_id>111121^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111121</member_id>
+      <weekly_index_value>490</weekly_index_value>
+      <weekly_index_level>4</weekly_index_level>
+      <weekly_index_level_label>Great</weekly_index_level_label>
+      <weekly_index_color>99FF66</weekly_index_color>
+      <week_start_date>2015-01-12</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>40</value>
+            <label>Water</label>
+            <color>FF9933</color>
+            <text>Your body needs much more water</text>
+         </recommendation>
+         <recommendation>
+            <value>40</value>
+            <label>Sleep</label>
+            <color>FF9933</color>
+            <text>Would be great if you could sleep for four more hours</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>Atu5lKgz0uM3TfgxSWbf8w</id>
+      <patient_id>111121^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111121</member_id>
+      <weekly_index_value>540</weekly_index_value>
+      <weekly_index_level>4</weekly_index_level>
+      <weekly_index_level_label>Great</weekly_index_level_label>
+      <weekly_index_color>99FF66</weekly_index_color>
+      <week_start_date>2015-01-19</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>40</value>
+            <label>Water</label>
+            <color>FF9933</color>
+            <text>Your body needs much more water</text>
+         </recommendation>
+         <recommendation>
+            <value>50</value>
+            <label>Sleep</label>
+            <color>FF9933</color>
+            <text>Would be great if you could sleep for four more hours</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>Atu5lKgz0uM3TfgxSWbf8w</id>
+      <patient_id>111121^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111121</member_id>
+      <weekly_index_value>530</weekly_index_value>
+      <weekly_index_level>4</weekly_index_level>
+      <weekly_index_level_label>Great</weekly_index_level_label>
+      <weekly_index_color>99FF66</weekly_index_color>
+      <week_start_date>2015-01-26</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>50</value>
+            <label>Water</label>
+            <color>FF9933</color>
+            <text>Your body needs much more water</text>
+         </recommendation>
+         <recommendation>
+            <value>50</value>
+            <label>Sleep</label>
+            <color>FFFF66</color>
+            <text>Would be great if you could sleep for two more hours</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>Atu5lKgz0uM3TfgxSWbf8w</id>
+      <patient_id>111121^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111121</member_id>
+      <weekly_index_value>560</weekly_index_value>
+      <weekly_index_level>4</weekly_index_level>
+      <weekly_index_level_label>Great</weekly_index_level_label>
+      <weekly_index_color>99FF66</weekly_index_color>
+      <week_start_date>2015-02-02</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>50</value>
+            <label>Water</label>
+            <color>FF9933</color>
+            <text>Your body needs much more water</text>
+         </recommendation>
+         <recommendation>
+            <value>50</value>
+            <label>Sleep</label>
+            <color>FFFF66</color>
+            <text>Would be great if you could sleep for two more hours</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>Atu5lKgz0uM3TfgxSWbf8w</id>
+      <patient_id>111121^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111121</member_id>
+      <weekly_index_value>590</weekly_index_value>
+      <weekly_index_level>4</weekly_index_level>
+      <weekly_index_level_label>Great</weekly_index_level_label>
+      <weekly_index_color>99FF66</weekly_index_color>
+      <week_start_date>2015-02-09</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>60</value>
+            <label>Water</label>
+            <color>FF9933</color>
+            <text>Your body needs much more water</text>
+         </recommendation>
+         <recommendation>
+            <value>55</value>
+            <label>Sleep</label>
+            <color>FFFF66</color>
+            <text>Would be great if you could sleep for two more hours</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>Atu5lKgz0uM3TfgxSWbf8w</id>
+      <patient_id>111121^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111121</member_id>
+      <weekly_index_value>620</weekly_index_value>
+      <weekly_index_level>5</weekly_index_level>
+      <weekly_index_level_label>Excellent</weekly_index_level_label>
+      <weekly_index_color>00FF00</weekly_index_color>
+      <week_start_date>2015-02-16</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>75</value>
+            <label>Water</label>
+            <color>99FF66</color>
+            <text>Good job - just a few more glasses of water</text>
+         </recommendation>
+         <recommendation>
+            <value>60</value>
+            <label>Sleep</label>
+            <color>FFFF66</color>
+            <text>Would be great if you could sleep for two more hours</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>Atu5lKgz0uM3TfgxSWbf8w</id>
+      <patient_id>111121^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111121</member_id>
+      <weekly_index_value>620</weekly_index_value>
+      <weekly_index_level>5</weekly_index_level>
+      <weekly_index_level_label>Excellent</weekly_index_level_label>
+      <weekly_index_color>00FF00</weekly_index_color>
+      <week_start_date>2015-02-23</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>75</value>
+            <label>Water</label>
+            <color>99FF66</color>
+            <text>Good job - just a few more glasses of water</text>
+         </recommendation>
+         <recommendation>
+            <value>60</value>
+            <label>Sleep</label>
+            <color>FFFF66</color>
+            <text>Would be great if you could sleep for two more hours</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>Atu5lKgz0uM3TfgxSWbf8w</id>
+      <patient_id>111121^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111121</member_id>
+      <weekly_index_value>600</weekly_index_value>
+      <weekly_index_level>5</weekly_index_level>
+      <weekly_index_level_label>Excellent</weekly_index_level_label>
+      <weekly_index_color>00FF00</weekly_index_color>
+      <week_start_date>2015-03-02</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>75</value>
+            <label>Water</label>
+            <color>99FF66</color>
+            <text>Good job - just a few more glasses of water</text>
+         </recommendation>
+         <recommendation>
+            <value>70</value>
+            <label>Sleep</label>
+            <color>FFFF67</color>
+            <text>Would be great if you could sleep for two more hours</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>Atu5lKgz0uM3TfgxSWbf8w</id>
+      <patient_id>111121^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111121</member_id>
+      <weekly_index_value>630</weekly_index_value>
+      <weekly_index_level>5</weekly_index_level>
+      <weekly_index_level_label>Excellent</weekly_index_level_label>
+      <weekly_index_color>00FF00</weekly_index_color>
+      <week_start_date>2015-03-09</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>75</value>
+            <label>Water</label>
+            <color>99FF66</color>
+            <text>Good job - just a few more glasses of water</text>
+         </recommendation>
+         <recommendation>
+            <value>70</value>
+            <label>Sleep</label>
+            <color>FFFF68</color>
+            <text>Would be great if you could sleep for two more hours</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>VaK9XpbuGoNCeMAGNd5V0w</id>
+      <patient_id>111122^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111122</member_id>
+      <weekly_index_value>310</weekly_index_value>
+      <weekly_index_level>2</weekly_index_level>
+      <weekly_index_level_label>More effort needed</weekly_index_level_label>
+      <weekly_index_color>FF9933</weekly_index_color>
+      <week_start_date>2015-01-12</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>40</value>
+            <label>Water</label>
+            <color>FF9933</color>
+            <text>Your body needs much more water</text>
+         </recommendation>
+         <recommendation>
+            <value>40</value>
+            <label>Sleep</label>
+            <color>FF9933</color>
+            <text>Would be great if you could sleep for four more hours</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>VaK9XpbuGoNCeMAGNd5V0w</id>
+      <patient_id>111122^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111122</member_id>
+      <weekly_index_value>320</weekly_index_value>
+      <weekly_index_level>2</weekly_index_level>
+      <weekly_index_level_label>More effort needed</weekly_index_level_label>
+      <weekly_index_color>FF9933</weekly_index_color>
+      <week_start_date>2015-01-19</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>40</value>
+            <label>Water</label>
+            <color>FF9933</color>
+            <text>Your body needs much more water</text>
+         </recommendation>
+         <recommendation>
+            <value>50</value>
+            <label>Sleep</label>
+            <color>FF9933</color>
+            <text>Would be great if you could sleep for four more hours</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>VaK9XpbuGoNCeMAGNd5V0w</id>
+      <patient_id>111122^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111122</member_id>
+      <weekly_index_value>310</weekly_index_value>
+      <weekly_index_level>2</weekly_index_level>
+      <weekly_index_level_label>More effort needed</weekly_index_level_label>
+      <weekly_index_color>FF9933</weekly_index_color>
+      <week_start_date>2015-01-26</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>50</value>
+            <label>Water</label>
+            <color>FF9933</color>
+            <text>Your body needs much more water</text>
+         </recommendation>
+         <recommendation>
+            <value>50</value>
+            <label>Sleep</label>
+            <color>FFFF66</color>
+            <text>Would be great if you could sleep for two more hours</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>VaK9XpbuGoNCeMAGNd5V0w</id>
+      <patient_id>111122^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111122</member_id>
+      <weekly_index_value>360</weekly_index_value>
+      <weekly_index_level>3</weekly_index_level>
+      <weekly_index_level_label>Almost there</weekly_index_level_label>
+      <weekly_index_color>FFFF66</weekly_index_color>
+      <week_start_date>2015-02-02</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>50</value>
+            <label>Water</label>
+            <color>FF9933</color>
+            <text>Your body needs much more water</text>
+         </recommendation>
+         <recommendation>
+            <value>50</value>
+            <label>Sleep</label>
+            <color>FFFF66</color>
+            <text>Would be great if you could sleep for two more hours</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>VaK9XpbuGoNCeMAGNd5V0w</id>
+      <patient_id>111122^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111122</member_id>
+      <weekly_index_value>410</weekly_index_value>
+      <weekly_index_level>3</weekly_index_level>
+      <weekly_index_level_label>Almost there</weekly_index_level_label>
+      <weekly_index_color>FFFF66</weekly_index_color>
+      <week_start_date>2015-02-09</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>60</value>
+            <label>Water</label>
+            <color>FF9933</color>
+            <text>Your body needs much more water</text>
+         </recommendation>
+         <recommendation>
+            <value>55</value>
+            <label>Sleep</label>
+            <color>FFFF66</color>
+            <text>Would be great if you could sleep for two more hours</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>VaK9XpbuGoNCeMAGNd5V0w</id>
+      <patient_id>111122^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111122</member_id>
+      <weekly_index_value>390</weekly_index_value>
+      <weekly_index_level>3</weekly_index_level>
+      <weekly_index_level_label>Almost there</weekly_index_level_label>
+      <weekly_index_color>FFFF66</weekly_index_color>
+      <week_start_date>2015-02-16</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>75</value>
+            <label>Water</label>
+            <color>99FF66</color>
+            <text>Good job - just a few more glasses of water</text>
+         </recommendation>
+         <recommendation>
+            <value>60</value>
+            <label>Sleep</label>
+            <color>FFFF66</color>
+            <text>Would be great if you could sleep for two more hours</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>VaK9XpbuGoNCeMAGNd5V0w</id>
+      <patient_id>111122^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111122</member_id>
+      <weekly_index_value>420</weekly_index_value>
+      <weekly_index_level>3</weekly_index_level>
+      <weekly_index_level_label>Almost there</weekly_index_level_label>
+      <weekly_index_color>FFFF66</weekly_index_color>
+      <week_start_date>2015-02-23</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>75</value>
+            <label>Water</label>
+            <color>99FF66</color>
+            <text>Good job - just a few more glasses of water</text>
+         </recommendation>
+         <recommendation>
+            <value>60</value>
+            <label>Sleep</label>
+            <color>FFFF66</color>
+            <text>Would be great if you could sleep for two more hours</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>VaK9XpbuGoNCeMAGNd5V0w</id>
+      <patient_id>111122^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111122</member_id>
+      <weekly_index_value>450</weekly_index_value>
+      <weekly_index_level>4</weekly_index_level>
+      <weekly_index_level_label>Great</weekly_index_level_label>
+      <weekly_index_color>99FF66</weekly_index_color>
+      <week_start_date>2015-03-02</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>75</value>
+            <label>Water</label>
+            <color>99FF66</color>
+            <text>Good job - just a few more glasses of water</text>
+         </recommendation>
+         <recommendation>
+            <value>70</value>
+            <label>Sleep</label>
+            <color>FFFF67</color>
+            <text>Would be great if you could sleep for two more hours</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>VaK9XpbuGoNCeMAGNd5V0w</id>
+      <patient_id>111122^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111122</member_id>
+      <weekly_index_value>480</weekly_index_value>
+      <weekly_index_level>4</weekly_index_level>
+      <weekly_index_level_label>Great</weekly_index_level_label>
+      <weekly_index_color>99FF66</weekly_index_color>
+      <week_start_date>2015-03-09</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>75</value>
+            <label>Water</label>
+            <color>99FF66</color>
+            <text>Good job - just a few more glasses of water</text>
+         </recommendation>
+         <recommendation>
+            <value>70</value>
+            <label>Sleep</label>
+            <color>FFFF68</color>
+            <text>Would be great if you could sleep for two more hours</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>tbqzPOaqaL5DWmUvMclT2g</id>
+      <patient_id>111123^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111123</member_id>
+      <weekly_index_value>410</weekly_index_value>
+      <weekly_index_level>3</weekly_index_level>
+      <weekly_index_level_label>Almost there</weekly_index_level_label>
+      <weekly_index_color>FFFF66</weekly_index_color>
+      <week_start_date>2015-01-12</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>40</value>
+            <label>Sleep</label>
+            <color>FF9933</color>
+            <text>Would be great if you could sleep for four more hours</text>
+         </recommendation>
+         <recommendation>
+            <value>40</value>
+            <label>Water</label>
+            <color>FF9933</color>
+            <text>Your body needs much more water</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>tbqzPOaqaL5DWmUvMclT2g</id>
+      <patient_id>111123^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111123</member_id>
+      <weekly_index_value>420</weekly_index_value>
+      <weekly_index_level>3</weekly_index_level>
+      <weekly_index_level_label>Almost there</weekly_index_level_label>
+      <weekly_index_color>FFFF66</weekly_index_color>
+      <week_start_date>2015-01-19</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>50</value>
+            <label>Sleep</label>
+            <color>FF9933</color>
+            <text>Would be great if you could sleep for four more hours</text>
+         </recommendation>
+         <recommendation>
+            <value>40</value>
+            <label>Water</label>
+            <color>FF9933</color>
+            <text>Your body needs much more water</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>tbqzPOaqaL5DWmUvMclT2g</id>
+      <patient_id>111123^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111123</member_id>
+      <weekly_index_value>310</weekly_index_value>
+      <weekly_index_level>2</weekly_index_level>
+      <weekly_index_level_label>More effort needed</weekly_index_level_label>
+      <weekly_index_color>FF9933</weekly_index_color>
+      <week_start_date>2015-01-26</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>50</value>
+            <label>Sleep</label>
+            <color>FFFF66</color>
+            <text>Would be great if you could sleep for two more hours</text>
+         </recommendation>
+         <recommendation>
+            <value>50</value>
+            <label>Water</label>
+            <color>FF9933</color>
+            <text>Your body needs much more water</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>tbqzPOaqaL5DWmUvMclT2g</id>
+      <patient_id>111123^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111123</member_id>
+      <weekly_index_value>310</weekly_index_value>
+      <weekly_index_level>2</weekly_index_level>
+      <weekly_index_level_label>More effort needed</weekly_index_level_label>
+      <weekly_index_color>FF9933</weekly_index_color>
+      <week_start_date>2015-02-02</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>50</value>
+            <label>Sleep</label>
+            <color>FFFF66</color>
+            <text>Would be great if you could sleep for two more hours</text>
+         </recommendation>
+         <recommendation>
+            <value>50</value>
+            <label>Water</label>
+            <color>FF9933</color>
+            <text>Your body needs much more water</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>tbqzPOaqaL5DWmUvMclT2g</id>
+      <patient_id>111123^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111123</member_id>
+      <weekly_index_value>350</weekly_index_value>
+      <weekly_index_level>3</weekly_index_level>
+      <weekly_index_level_label>Almost there</weekly_index_level_label>
+      <weekly_index_color>FFFF66</weekly_index_color>
+      <week_start_date>2015-02-09</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>55</value>
+            <label>Sleep</label>
+            <color>FFFF66</color>
+            <text>Would be great if you could sleep for two more hours</text>
+         </recommendation>
+         <recommendation>
+            <value>60</value>
+            <label>Water</label>
+            <color>FF9933</color>
+            <text>Your body needs much more water</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>tbqzPOaqaL5DWmUvMclT2g</id>
+      <patient_id>111123^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111123</member_id>
+      <weekly_index_value>320</weekly_index_value>
+      <weekly_index_level>2</weekly_index_level>
+      <weekly_index_level_label>More effort needed</weekly_index_level_label>
+      <weekly_index_color>FF9933</weekly_index_color>
+      <week_start_date>2015-02-16</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>60</value>
+            <label>Sleep</label>
+            <color>FFFF66</color>
+            <text>Would be great if you could sleep for two more hours</text>
+         </recommendation>
+         <recommendation>
+            <value>75</value>
+            <label>Water</label>
+            <color>99FF66</color>
+            <text>Good job - just a few more glasses of water</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>tbqzPOaqaL5DWmUvMclT2g</id>
+      <patient_id>111123^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111123</member_id>
+      <weekly_index_value>330</weekly_index_value>
+      <weekly_index_level>2</weekly_index_level>
+      <weekly_index_level_label>More effort needed</weekly_index_level_label>
+      <weekly_index_color>FF9933</weekly_index_color>
+      <week_start_date>2015-02-23</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>60</value>
+            <label>Sleep</label>
+            <color>FFFF66</color>
+            <text>Would be great if you could sleep for two more hours</text>
+         </recommendation>
+         <recommendation>
+            <value>75</value>
+            <label>Water</label>
+            <color>99FF66</color>
+            <text>Good job - just a few more glasses of water</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>tbqzPOaqaL5DWmUvMclT2g</id>
+      <patient_id>111123^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111123</member_id>
+      <weekly_index_value>360</weekly_index_value>
+      <weekly_index_level>3</weekly_index_level>
+      <weekly_index_level_label>Almost there</weekly_index_level_label>
+      <weekly_index_color>FFFF66</weekly_index_color>
+      <week_start_date>2015-03-02</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>70</value>
+            <label>Sleep</label>
+            <color>FFFF67</color>
+            <text>Would be great if you could sleep for two more hours</text>
+         </recommendation>
+         <recommendation>
+            <value>75</value>
+            <label>Water</label>
+            <color>99FF66</color>
+            <text>Good job - just a few more glasses of water</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>tbqzPOaqaL5DWmUvMclT2g</id>
+      <patient_id>111123^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111123</member_id>
+      <weekly_index_value>380</weekly_index_value>
+      <weekly_index_level>3</weekly_index_level>
+      <weekly_index_level_label>Almost there</weekly_index_level_label>
+      <weekly_index_color>FFFF66</weekly_index_color>
+      <week_start_date>2015-03-09</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>70</value>
+            <label>Sleep</label>
+            <color>FFFF68</color>
+            <text>Would be great if you could sleep for two more hours</text>
+         </recommendation>
+         <recommendation>
+            <value>75</value>
+            <label>Water</label>
+            <color>99FF66</color>
+            <text>Good job - just a few more glasses of water</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>jHdaNOJHRoqa4kpgRVRlCg</id>
+      <patient_id>111124^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111124</member_id>
+      <weekly_index_value>390</weekly_index_value>
+      <weekly_index_level>3</weekly_index_level>
+      <weekly_index_level_label>Almost there</weekly_index_level_label>
+      <weekly_index_color>FFFF66</weekly_index_color>
+      <week_start_date>2015-01-12</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>60</value>
+            <label>Steps</label>
+            <color>FFFF66</color>
+            <text>Good. You are getting there</text>
+         </recommendation>
+         <recommendation>
+            <value />
+            <label />
+            <color />
+            <text />
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>jHdaNOJHRoqa4kpgRVRlCg</id>
+      <patient_id>111124^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111124</member_id>
+      <weekly_index_value>400</weekly_index_value>
+      <weekly_index_level>3</weekly_index_level>
+      <weekly_index_level_label>Almost there</weekly_index_level_label>
+      <weekly_index_color>FFFF66</weekly_index_color>
+      <week_start_date>2015-01-19</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>70</value>
+            <label>Steps</label>
+            <color>FFFF66</color>
+            <text>Good. You are getting there</text>
+         </recommendation>
+         <recommendation>
+            <value />
+            <label />
+            <color />
+            <text />
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>jHdaNOJHRoqa4kpgRVRlCg</id>
+      <patient_id>111124^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111124</member_id>
+      <weekly_index_value>430</weekly_index_value>
+      <weekly_index_level>3</weekly_index_level>
+      <weekly_index_level_label>Almost there</weekly_index_level_label>
+      <weekly_index_color>FFFF66</weekly_index_color>
+      <week_start_date>2015-01-26</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>80</value>
+            <label>Steps</label>
+            <color>FFFF66</color>
+            <text>Good. You are getting there</text>
+         </recommendation>
+         <recommendation>
+            <value />
+            <label />
+            <color />
+            <text />
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>jHdaNOJHRoqa4kpgRVRlCg</id>
+      <patient_id>111124^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111124</member_id>
+      <weekly_index_value>450</weekly_index_value>
+      <weekly_index_level>4</weekly_index_level>
+      <weekly_index_level_label>Great</weekly_index_level_label>
+      <weekly_index_color>99FF66</weekly_index_color>
+      <week_start_date>2015-02-02</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>60</value>
+            <label>Steps</label>
+            <color>FFFF66</color>
+            <text>Good. You are getting there</text>
+         </recommendation>
+         <recommendation>
+            <value />
+            <label />
+            <color />
+            <text />
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>jHdaNOJHRoqa4kpgRVRlCg</id>
+      <patient_id>111124^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111124</member_id>
+      <weekly_index_value>480</weekly_index_value>
+      <weekly_index_level>4</weekly_index_level>
+      <weekly_index_level_label>Great</weekly_index_level_label>
+      <weekly_index_color>99FF66</weekly_index_color>
+      <week_start_date>2015-02-09</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>70</value>
+            <label>Steps</label>
+            <color>FFFF66</color>
+            <text>Good. You are getting there</text>
+         </recommendation>
+         <recommendation>
+            <value />
+            <label />
+            <color />
+            <text />
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>jHdaNOJHRoqa4kpgRVRlCg</id>
+      <patient_id>111124^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111124</member_id>
+      <weekly_index_value>510</weekly_index_value>
+      <weekly_index_level>4</weekly_index_level>
+      <weekly_index_level_label>Great</weekly_index_level_label>
+      <weekly_index_color>99FF66</weekly_index_color>
+      <week_start_date>2015-02-16</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>95</value>
+            <label>Steps</label>
+            <color>FFFF66</color>
+            <text>Good. You are getting there</text>
+         </recommendation>
+         <recommendation>
+            <value />
+            <label />
+            <color />
+            <text />
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>jHdaNOJHRoqa4kpgRVRlCg</id>
+      <patient_id>111124^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111124</member_id>
+      <weekly_index_value>540</weekly_index_value>
+      <weekly_index_level>4</weekly_index_level>
+      <weekly_index_level_label>Great</weekly_index_level_label>
+      <weekly_index_color>99FF66</weekly_index_color>
+      <week_start_date>2015-02-23</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>60</value>
+            <label>Steps</label>
+            <color>FFFF66</color>
+            <text>Good. You are getting there</text>
+         </recommendation>
+         <recommendation>
+            <value />
+            <label />
+            <color />
+            <text />
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>jHdaNOJHRoqa4kpgRVRlCg</id>
+      <patient_id>111124^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111124</member_id>
+      <weekly_index_value>570</weekly_index_value>
+      <weekly_index_level>4</weekly_index_level>
+      <weekly_index_level_label>Great</weekly_index_level_label>
+      <weekly_index_color>99FF66</weekly_index_color>
+      <week_start_date>2015-03-02</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>70</value>
+            <label>Steps</label>
+            <color>FFFF66</color>
+            <text>Good. You are getting there</text>
+         </recommendation>
+         <recommendation>
+            <value />
+            <label />
+            <color />
+            <text />
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>jHdaNOJHRoqa4kpgRVRlCg</id>
+      <patient_id>111124^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111124</member_id>
+      <weekly_index_value>590</weekly_index_value>
+      <weekly_index_level>4</weekly_index_level>
+      <weekly_index_level_label>Great</weekly_index_level_label>
+      <weekly_index_color>99FF66</weekly_index_color>
+      <week_start_date>2015-03-09</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>95</value>
+            <label>Steps</label>
+            <color>FFFF66</color>
+            <text>Good. You are getting there</text>
+         </recommendation>
+         <recommendation>
+            <value />
+            <label />
+            <color />
+            <text />
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>kmNH41hx5boyBV3Oh106MQ</id>
+      <patient_id>111125^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111125</member_id>
+      <weekly_index_value>460</weekly_index_value>
+      <weekly_index_level>4</weekly_index_level>
+      <weekly_index_level_label>Great</weekly_index_level_label>
+      <weekly_index_color>99FF66</weekly_index_color>
+      <week_start_date>2015-01-12</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>40</value>
+            <label>Water</label>
+            <color>FF9933</color>
+            <text>Your body needs much more water</text>
+         </recommendation>
+         <recommendation>
+            <value>40</value>
+            <label>Sleep</label>
+            <color>FF9933</color>
+            <text>Would be great if you could sleep for four more hours</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>kmNH41hx5boyBV3Oh106MQ</id>
+      <patient_id>111125^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111125</member_id>
+      <weekly_index_value>410</weekly_index_value>
+      <weekly_index_level>3</weekly_index_level>
+      <weekly_index_level_label>Almost there</weekly_index_level_label>
+      <weekly_index_color>FFFF66</weekly_index_color>
+      <week_start_date>2015-01-19</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>40</value>
+            <label>Water</label>
+            <color>FF9933</color>
+            <text>Your body needs much more water</text>
+         </recommendation>
+         <recommendation>
+            <value>50</value>
+            <label>Sleep</label>
+            <color>FF9933</color>
+            <text>Would be great if you could sleep for four more hours</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>kmNH41hx5boyBV3Oh106MQ</id>
+      <patient_id>111125^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111125</member_id>
+      <weekly_index_value>410</weekly_index_value>
+      <weekly_index_level>3</weekly_index_level>
+      <weekly_index_level_label>Almost there</weekly_index_level_label>
+      <weekly_index_color>FFFF66</weekly_index_color>
+      <week_start_date>2015-01-26</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>50</value>
+            <label>Water</label>
+            <color>FF9933</color>
+            <text>Your body needs much more water</text>
+         </recommendation>
+         <recommendation>
+            <value>50</value>
+            <label>Sleep</label>
+            <color>FFFF66</color>
+            <text>Would be great if you could sleep for two more hours</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>kmNH41hx5boyBV3Oh106MQ</id>
+      <patient_id>111125^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111125</member_id>
+      <weekly_index_value>440</weekly_index_value>
+      <weekly_index_level>3</weekly_index_level>
+      <weekly_index_level_label>Almost there</weekly_index_level_label>
+      <weekly_index_color>FFFF66</weekly_index_color>
+      <week_start_date>2015-02-02</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>50</value>
+            <label>Water</label>
+            <color>FF9933</color>
+            <text>Your body needs much more water</text>
+         </recommendation>
+         <recommendation>
+            <value>50</value>
+            <label>Sleep</label>
+            <color>FFFF66</color>
+            <text>Would be great if you could sleep for two more hours</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>kmNH41hx5boyBV3Oh106MQ</id>
+      <patient_id>111125^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111125</member_id>
+      <weekly_index_value>470</weekly_index_value>
+      <weekly_index_level>4</weekly_index_level>
+      <weekly_index_level_label>Great</weekly_index_level_label>
+      <weekly_index_color>99FF66</weekly_index_color>
+      <week_start_date>2015-02-09</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>60</value>
+            <label>Water</label>
+            <color>FF9933</color>
+            <text>Your body needs much more water</text>
+         </recommendation>
+         <recommendation>
+            <value>55</value>
+            <label>Sleep</label>
+            <color>FFFF66</color>
+            <text>Would be great if you could sleep for two more hours</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>kmNH41hx5boyBV3Oh106MQ</id>
+      <patient_id>111125^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111125</member_id>
+      <weekly_index_value>490</weekly_index_value>
+      <weekly_index_level>4</weekly_index_level>
+      <weekly_index_level_label>Great</weekly_index_level_label>
+      <weekly_index_color>99FF66</weekly_index_color>
+      <week_start_date>2015-02-16</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>75</value>
+            <label>Water</label>
+            <color>99FF66</color>
+            <text>Good job - just a few more glasses of water</text>
+         </recommendation>
+         <recommendation>
+            <value>60</value>
+            <label>Sleep</label>
+            <color>FFFF66</color>
+            <text>Would be great if you could sleep for two more hours</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>kmNH41hx5boyBV3Oh106MQ</id>
+      <patient_id>111125^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111125</member_id>
+      <weekly_index_value>490</weekly_index_value>
+      <weekly_index_level>4</weekly_index_level>
+      <weekly_index_level_label>Great</weekly_index_level_label>
+      <weekly_index_color>99FF66</weekly_index_color>
+      <week_start_date>2015-02-23</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>75</value>
+            <label>Water</label>
+            <color>99FF66</color>
+            <text>Good job - just a few more glasses of water</text>
+         </recommendation>
+         <recommendation>
+            <value>60</value>
+            <label>Sleep</label>
+            <color>FFFF66</color>
+            <text>Would be great if you could sleep for two more hours</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>kmNH41hx5boyBV3Oh106MQ</id>
+      <patient_id>111125^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111125</member_id>
+      <weekly_index_value>490</weekly_index_value>
+      <weekly_index_level>4</weekly_index_level>
+      <weekly_index_level_label>Great</weekly_index_level_label>
+      <weekly_index_color>99FF66</weekly_index_color>
+      <week_start_date>2015-03-02</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>75</value>
+            <label>Water</label>
+            <color>99FF66</color>
+            <text>Good job - just a few more glasses of water</text>
+         </recommendation>
+         <recommendation>
+            <value>70</value>
+            <label>Sleep</label>
+            <color>FFFF67</color>
+            <text>Would be great if you could sleep for two more hours</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>kmNH41hx5boyBV3Oh106MQ</id>
+      <patient_id>111125^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111125</member_id>
+      <weekly_index_value>520</weekly_index_value>
+      <weekly_index_level>4</weekly_index_level>
+      <weekly_index_level_label>Great</weekly_index_level_label>
+      <weekly_index_color>99FF66</weekly_index_color>
+      <week_start_date>2015-03-09</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>75</value>
+            <label>Water</label>
+            <color>99FF66</color>
+            <text>Good job - just a few more glasses of water</text>
+         </recommendation>
+         <recommendation>
+            <value>70</value>
+            <label>Sleep</label>
+            <color>FFFF68</color>
+            <text>Would be great if you could sleep for two more hours</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>6cEBHrNSvWZXHZTEQBCc2w</id>
+      <patient_id>111126^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111126</member_id>
+      <weekly_index_value>230</weekly_index_value>
+      <weekly_index_level>2</weekly_index_level>
+      <weekly_index_level_label>More effort needed</weekly_index_level_label>
+      <weekly_index_color>FF9933</weekly_index_color>
+      <week_start_date>2015-01-12</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>40</value>
+            <label>Sleep</label>
+            <color>FF9933</color>
+            <text>Would be great if you could sleep for four more hours</text>
+         </recommendation>
+         <recommendation>
+            <value>40</value>
+            <label>Water</label>
+            <color>FF9933</color>
+            <text>Your body needs much more water</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>6cEBHrNSvWZXHZTEQBCc2w</id>
+      <patient_id>111126^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111126</member_id>
+      <weekly_index_value>260</weekly_index_value>
+      <weekly_index_level>2</weekly_index_level>
+      <weekly_index_level_label>More effort needed</weekly_index_level_label>
+      <weekly_index_color>FF9933</weekly_index_color>
+      <week_start_date>2015-01-19</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>50</value>
+            <label>Sleep</label>
+            <color>FF9933</color>
+            <text>Would be great if you could sleep for four more hours</text>
+         </recommendation>
+         <recommendation>
+            <value>40</value>
+            <label>Water</label>
+            <color>FF9933</color>
+            <text>Your body needs much more water</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>6cEBHrNSvWZXHZTEQBCc2w</id>
+      <patient_id>111126^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111126</member_id>
+      <weekly_index_value>320</weekly_index_value>
+      <weekly_index_level>2</weekly_index_level>
+      <weekly_index_level_label>More effort needed</weekly_index_level_label>
+      <weekly_index_color>FF9933</weekly_index_color>
+      <week_start_date>2015-01-26</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>50</value>
+            <label>Sleep</label>
+            <color>FFFF66</color>
+            <text>Would be great if you could sleep for two more hours</text>
+         </recommendation>
+         <recommendation>
+            <value>50</value>
+            <label>Water</label>
+            <color>FF9933</color>
+            <text>Your body needs much more water</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>6cEBHrNSvWZXHZTEQBCc2w</id>
+      <patient_id>111126^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111126</member_id>
+      <weekly_index_value>340</weekly_index_value>
+      <weekly_index_level>2</weekly_index_level>
+      <weekly_index_level_label>More effort needed</weekly_index_level_label>
+      <weekly_index_color>FF9933</weekly_index_color>
+      <week_start_date>2015-02-02</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>50</value>
+            <label>Sleep</label>
+            <color>FFFF66</color>
+            <text>Would be great if you could sleep for two more hours</text>
+         </recommendation>
+         <recommendation>
+            <value>50</value>
+            <label>Water</label>
+            <color>FF9933</color>
+            <text>Your body needs much more water</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>6cEBHrNSvWZXHZTEQBCc2w</id>
+      <patient_id>111126^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111126</member_id>
+      <weekly_index_value>370</weekly_index_value>
+      <weekly_index_level>3</weekly_index_level>
+      <weekly_index_level_label>Almost there</weekly_index_level_label>
+      <weekly_index_color>FFFF66</weekly_index_color>
+      <week_start_date>2015-02-09</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>55</value>
+            <label>Sleep</label>
+            <color>FFFF66</color>
+            <text>Would be great if you could sleep for two more hours</text>
+         </recommendation>
+         <recommendation>
+            <value>60</value>
+            <label>Water</label>
+            <color>FF9933</color>
+            <text>Your body needs much more water</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>6cEBHrNSvWZXHZTEQBCc2w</id>
+      <patient_id>111126^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111126</member_id>
+      <weekly_index_value>400</weekly_index_value>
+      <weekly_index_level>3</weekly_index_level>
+      <weekly_index_level_label>Almost there</weekly_index_level_label>
+      <weekly_index_color>FFFF66</weekly_index_color>
+      <week_start_date>2015-02-16</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>60</value>
+            <label>Sleep</label>
+            <color>FFFF66</color>
+            <text>Would be great if you could sleep for two more hours</text>
+         </recommendation>
+         <recommendation>
+            <value>75</value>
+            <label>Water</label>
+            <color>99FF66</color>
+            <text>Good job - just a few more glasses of water</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>6cEBHrNSvWZXHZTEQBCc2w</id>
+      <patient_id>111126^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111126</member_id>
+      <weekly_index_value>440</weekly_index_value>
+      <weekly_index_level>3</weekly_index_level>
+      <weekly_index_level_label>Almost there</weekly_index_level_label>
+      <weekly_index_color>FFFF66</weekly_index_color>
+      <week_start_date>2015-02-23</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>60</value>
+            <label>Sleep</label>
+            <color>FFFF66</color>
+            <text>Would be great if you could sleep for two more hours</text>
+         </recommendation>
+         <recommendation>
+            <value>75</value>
+            <label>Water</label>
+            <color>99FF66</color>
+            <text>Good job - just a few more glasses of water</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>6cEBHrNSvWZXHZTEQBCc2w</id>
+      <patient_id>111126^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111126</member_id>
+      <weekly_index_value>460</weekly_index_value>
+      <weekly_index_level>4</weekly_index_level>
+      <weekly_index_level_label>Great</weekly_index_level_label>
+      <weekly_index_color>99FF66</weekly_index_color>
+      <week_start_date>2015-03-02</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>70</value>
+            <label>Sleep</label>
+            <color>FFFF67</color>
+            <text>Would be great if you could sleep for two more hours</text>
+         </recommendation>
+         <recommendation>
+            <value>75</value>
+            <label>Water</label>
+            <color>99FF66</color>
+            <text>Good job - just a few more glasses of water</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>6cEBHrNSvWZXHZTEQBCc2w</id>
+      <patient_id>111126^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111126</member_id>
+      <weekly_index_value>480</weekly_index_value>
+      <weekly_index_level>4</weekly_index_level>
+      <weekly_index_level_label>Great</weekly_index_level_label>
+      <weekly_index_color>99FF66</weekly_index_color>
+      <week_start_date>2015-03-09</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>70</value>
+            <label>Sleep</label>
+            <color>FFFF68</color>
+            <text>Would be great if you could sleep for two more hours</text>
+         </recommendation>
+         <recommendation>
+            <value>75</value>
+            <label>Water</label>
+            <color>99FF66</color>
+            <text>Good job - just a few more glasses of water</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>YgBgRoAfwQ3CL3x17JLptg</id>
+      <patient_id>111127^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111127</member_id>
+      <weekly_index_value>350</weekly_index_value>
+      <weekly_index_level>3</weekly_index_level>
+      <weekly_index_level_label>Almost there</weekly_index_level_label>
+      <weekly_index_color>FFFF66</weekly_index_color>
+      <week_start_date>2015-01-12</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>40</value>
+            <label>Water</label>
+            <color>FF9933</color>
+            <text>Your body needs much more water</text>
+         </recommendation>
+         <recommendation>
+            <value />
+            <label />
+            <color />
+            <text />
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>YgBgRoAfwQ3CL3x17JLptg</id>
+      <patient_id>111127^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111127</member_id>
+      <weekly_index_value>380</weekly_index_value>
+      <weekly_index_level>3</weekly_index_level>
+      <weekly_index_level_label>Almost there</weekly_index_level_label>
+      <weekly_index_color>FFFF66</weekly_index_color>
+      <week_start_date>2015-01-19</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>40</value>
+            <label>Water</label>
+            <color>FF9933</color>
+            <text>Your body needs much more water</text>
+         </recommendation>
+         <recommendation>
+            <value />
+            <label />
+            <color />
+            <text />
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>YgBgRoAfwQ3CL3x17JLptg</id>
+      <patient_id>111127^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111127</member_id>
+      <weekly_index_value>440</weekly_index_value>
+      <weekly_index_level>3</weekly_index_level>
+      <weekly_index_level_label>Almost there</weekly_index_level_label>
+      <weekly_index_color>FFFF66</weekly_index_color>
+      <week_start_date>2015-01-26</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>50</value>
+            <label>Water</label>
+            <color>FF9933</color>
+            <text>Your body needs much more water</text>
+         </recommendation>
+         <recommendation>
+            <value />
+            <label />
+            <color />
+            <text />
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>YgBgRoAfwQ3CL3x17JLptg</id>
+      <patient_id>111127^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111127</member_id>
+      <weekly_index_value>460</weekly_index_value>
+      <weekly_index_level>4</weekly_index_level>
+      <weekly_index_level_label>Great</weekly_index_level_label>
+      <weekly_index_color>99FF66</weekly_index_color>
+      <week_start_date>2015-02-02</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>50</value>
+            <label>Water</label>
+            <color>FF9933</color>
+            <text>Your body needs much more water</text>
+         </recommendation>
+         <recommendation>
+            <value />
+            <label />
+            <color />
+            <text />
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>YgBgRoAfwQ3CL3x17JLptg</id>
+      <patient_id>111127^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111127</member_id>
+      <weekly_index_value>490</weekly_index_value>
+      <weekly_index_level>4</weekly_index_level>
+      <weekly_index_level_label>Great</weekly_index_level_label>
+      <weekly_index_color>99FF66</weekly_index_color>
+      <week_start_date>2015-02-09</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>60</value>
+            <label>Water</label>
+            <color>FF9933</color>
+            <text>Your body needs much more water</text>
+         </recommendation>
+         <recommendation>
+            <value />
+            <label />
+            <color />
+            <text />
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>YgBgRoAfwQ3CL3x17JLptg</id>
+      <patient_id>111127^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111127</member_id>
+      <weekly_index_value>520</weekly_index_value>
+      <weekly_index_level>4</weekly_index_level>
+      <weekly_index_level_label>Great</weekly_index_level_label>
+      <weekly_index_color>99FF66</weekly_index_color>
+      <week_start_date>2015-02-16</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>75</value>
+            <label>Water</label>
+            <color>99FF66</color>
+            <text>Good job - just a few more glasses of water</text>
+         </recommendation>
+         <recommendation>
+            <value />
+            <label />
+            <color />
+            <text />
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>YgBgRoAfwQ3CL3x17JLptg</id>
+      <patient_id>111127^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111127</member_id>
+      <weekly_index_value>560</weekly_index_value>
+      <weekly_index_level>4</weekly_index_level>
+      <weekly_index_level_label>Great</weekly_index_level_label>
+      <weekly_index_color>99FF66</weekly_index_color>
+      <week_start_date>2015-02-23</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>75</value>
+            <label>Water</label>
+            <color>99FF66</color>
+            <text>Good job - just a few more glasses of water</text>
+         </recommendation>
+         <recommendation>
+            <value />
+            <label />
+            <color />
+            <text />
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>YgBgRoAfwQ3CL3x17JLptg</id>
+      <patient_id>111127^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111127</member_id>
+      <weekly_index_value>570</weekly_index_value>
+      <weekly_index_level>4</weekly_index_level>
+      <weekly_index_level_label>Great</weekly_index_level_label>
+      <weekly_index_color>99FF66</weekly_index_color>
+      <week_start_date>2015-03-02</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>75</value>
+            <label>Water</label>
+            <color>99FF66</color>
+            <text>Good job - just a few more glasses of water</text>
+         </recommendation>
+         <recommendation>
+            <value />
+            <label />
+            <color />
+            <text />
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>YgBgRoAfwQ3CL3x17JLptg</id>
+      <patient_id>111127^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111127</member_id>
+      <weekly_index_value>600</weekly_index_value>
+      <weekly_index_level>5</weekly_index_level>
+      <weekly_index_level_label>Excellent</weekly_index_level_label>
+      <weekly_index_color>00FF00</weekly_index_color>
+      <week_start_date>2015-03-09</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>75</value>
+            <label>Water</label>
+            <color>99FF66</color>
+            <text>Good job - just a few more glasses of water</text>
+         </recommendation>
+         <recommendation>
+            <value />
+            <label />
+            <color />
+            <text />
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>pGCDb3TVbaA2alK3W2QyOg</id>
+      <patient_id>111128^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111128</member_id>
+      <weekly_index_value>410</weekly_index_value>
+      <weekly_index_level>3</weekly_index_level>
+      <weekly_index_level_label>Almost there</weekly_index_level_label>
+      <weekly_index_color>FFFF66</weekly_index_color>
+      <week_start_date>2015-01-12</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>60</value>
+            <label>Steps</label>
+            <color>FFFF66</color>
+            <text>Good. You are getting there</text>
+         </recommendation>
+         <recommendation>
+            <value>75</value>
+            <label>Water</label>
+            <color>99FF66</color>
+            <text>Good job - just a few more glasses of water</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>pGCDb3TVbaA2alK3W2QyOg</id>
+      <patient_id>111128^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111128</member_id>
+      <weekly_index_value>430</weekly_index_value>
+      <weekly_index_level>3</weekly_index_level>
+      <weekly_index_level_label>Almost there</weekly_index_level_label>
+      <weekly_index_color>FFFF66</weekly_index_color>
+      <week_start_date>2015-01-19</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>70</value>
+            <label>Steps</label>
+            <color>FFFF66</color>
+            <text>Good. You are getting there</text>
+         </recommendation>
+         <recommendation>
+            <value>60</value>
+            <label>Water</label>
+            <color>99FF66</color>
+            <text>Good job - just a few more glasses of water</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>pGCDb3TVbaA2alK3W2QyOg</id>
+      <patient_id>111128^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111128</member_id>
+      <weekly_index_value>460</weekly_index_value>
+      <weekly_index_level>4</weekly_index_level>
+      <weekly_index_level_label>Great</weekly_index_level_label>
+      <weekly_index_color>99FF66</weekly_index_color>
+      <week_start_date>2015-01-26</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>80</value>
+            <label>Steps</label>
+            <color>FFFF66</color>
+            <text>Good. You are getting there</text>
+         </recommendation>
+         <recommendation>
+            <value>80</value>
+            <label>Water</label>
+            <color>99FF66</color>
+            <text>Good job - just a few more glasses of water</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>pGCDb3TVbaA2alK3W2QyOg</id>
+      <patient_id>111128^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111128</member_id>
+      <weekly_index_value>420</weekly_index_value>
+      <weekly_index_level>3</weekly_index_level>
+      <weekly_index_level_label>Almost there</weekly_index_level_label>
+      <weekly_index_color>FFFF66</weekly_index_color>
+      <week_start_date>2015-02-02</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>60</value>
+            <label>Steps</label>
+            <color>FFFF66</color>
+            <text>Good. You are getting there</text>
+         </recommendation>
+         <recommendation>
+            <value>75</value>
+            <label>Water</label>
+            <color>99FF66</color>
+            <text>Good job - just a few more glasses of water</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>pGCDb3TVbaA2alK3W2QyOg</id>
+      <patient_id>111128^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111128</member_id>
+      <weekly_index_value>450</weekly_index_value>
+      <weekly_index_level>4</weekly_index_level>
+      <weekly_index_level_label>Great</weekly_index_level_label>
+      <weekly_index_color>99FF66</weekly_index_color>
+      <week_start_date>2015-02-09</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>70</value>
+            <label>Steps</label>
+            <color>FFFF66</color>
+            <text>Good. You are getting there</text>
+         </recommendation>
+         <recommendation>
+            <value>75</value>
+            <label>Water</label>
+            <color>99FF66</color>
+            <text>Good job - just a few more glasses of water</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>pGCDb3TVbaA2alK3W2QyOg</id>
+      <patient_id>111128^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111128</member_id>
+      <weekly_index_value>480</weekly_index_value>
+      <weekly_index_level>4</weekly_index_level>
+      <weekly_index_level_label>Great</weekly_index_level_label>
+      <weekly_index_color>99FF66</weekly_index_color>
+      <week_start_date>2015-02-16</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>95</value>
+            <label>Steps</label>
+            <color>FFFF66</color>
+            <text>Good. You are getting there</text>
+         </recommendation>
+         <recommendation>
+            <value>85</value>
+            <label>Water</label>
+            <color>99FF66</color>
+            <text>Good job - just a few more glasses of water</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>pGCDb3TVbaA2alK3W2QyOg</id>
+      <patient_id>111128^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111128</member_id>
+      <weekly_index_value>500</weekly_index_value>
+      <weekly_index_level>4</weekly_index_level>
+      <weekly_index_level_label>Great</weekly_index_level_label>
+      <weekly_index_color>99FF66</weekly_index_color>
+      <week_start_date>2015-02-23</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>60</value>
+            <label>Steps</label>
+            <color>FFFF66</color>
+            <text>Good. You are getting there</text>
+         </recommendation>
+         <recommendation>
+            <value>75</value>
+            <label>Water</label>
+            <color>99FF66</color>
+            <text>Good job - just a few more glasses of water</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>pGCDb3TVbaA2alK3W2QyOg</id>
+      <patient_id>111128^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111128</member_id>
+      <weekly_index_value>530</weekly_index_value>
+      <weekly_index_level>4</weekly_index_level>
+      <weekly_index_level_label>Great</weekly_index_level_label>
+      <weekly_index_color>99FF66</weekly_index_color>
+      <week_start_date>2015-03-02</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>70</value>
+            <label>Steps</label>
+            <color>FFFF66</color>
+            <text>Good. You are getting there</text>
+         </recommendation>
+         <recommendation>
+            <value>75</value>
+            <label>Water</label>
+            <color>99FF66</color>
+            <text>Good job - just a few more glasses of water</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>pGCDb3TVbaA2alK3W2QyOg</id>
+      <patient_id>111128^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111128</member_id>
+      <weekly_index_value>560</weekly_index_value>
+      <weekly_index_level>4</weekly_index_level>
+      <weekly_index_level_label>Great</weekly_index_level_label>
+      <weekly_index_color>99FF66</weekly_index_color>
+      <week_start_date>2015-03-09</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>95</value>
+            <label>Steps</label>
+            <color>FFFF66</color>
+            <text>Good. You are getting there</text>
+         </recommendation>
+         <recommendation>
+            <value>85</value>
+            <label>Water</label>
+            <color>99FF66</color>
+            <text>Good job - just a few more glasses of water</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>a2jQ3sD6hDN6TZaDjQONZQ</id>
+      <patient_id>111129^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111129</member_id>
+      <weekly_index_value>410</weekly_index_value>
+      <weekly_index_level>3</weekly_index_level>
+      <weekly_index_level_label>Almost there</weekly_index_level_label>
+      <weekly_index_color>FFFF66</weekly_index_color>
+      <week_start_date>2015-01-12</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>40</value>
+            <label>Water</label>
+            <color>FF9933</color>
+            <text>Your body needs much more water</text>
+         </recommendation>
+         <recommendation>
+            <value>40</value>
+            <label>Sleep</label>
+            <color>FF9933</color>
+            <text>Would be great if you could sleep for four more hours</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>a2jQ3sD6hDN6TZaDjQONZQ</id>
+      <patient_id>111129^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111129</member_id>
+      <weekly_index_value>490</weekly_index_value>
+      <weekly_index_level>4</weekly_index_level>
+      <weekly_index_level_label>Great</weekly_index_level_label>
+      <weekly_index_color>99FF66</weekly_index_color>
+      <week_start_date>2015-01-19</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>40</value>
+            <label>Water</label>
+            <color>FF9933</color>
+            <text>Your body needs much more water</text>
+         </recommendation>
+         <recommendation>
+            <value>50</value>
+            <label>Sleep</label>
+            <color>FF9933</color>
+            <text>Would be great if you could sleep for four more hours</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>a2jQ3sD6hDN6TZaDjQONZQ</id>
+      <patient_id>111129^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111129</member_id>
+      <weekly_index_value>520</weekly_index_value>
+      <weekly_index_level>4</weekly_index_level>
+      <weekly_index_level_label>Great</weekly_index_level_label>
+      <weekly_index_color>99FF66</weekly_index_color>
+      <week_start_date>2015-01-26</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>50</value>
+            <label>Water</label>
+            <color>FF9933</color>
+            <text>Your body needs much more water</text>
+         </recommendation>
+         <recommendation>
+            <value>50</value>
+            <label>Sleep</label>
+            <color>FFFF66</color>
+            <text>Would be great if you could sleep for two more hours</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>a2jQ3sD6hDN6TZaDjQONZQ</id>
+      <patient_id>111129^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111129</member_id>
+      <weekly_index_value>480</weekly_index_value>
+      <weekly_index_level>4</weekly_index_level>
+      <weekly_index_level_label>Great</weekly_index_level_label>
+      <weekly_index_color>99FF66</weekly_index_color>
+      <week_start_date>2015-02-02</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>50</value>
+            <label>Water</label>
+            <color>FF9933</color>
+            <text>Your body needs much more water</text>
+         </recommendation>
+         <recommendation>
+            <value>50</value>
+            <label>Sleep</label>
+            <color>FFFF66</color>
+            <text>Would be great if you could sleep for two more hours</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>a2jQ3sD6hDN6TZaDjQONZQ</id>
+      <patient_id>111129^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111129</member_id>
+      <weekly_index_value>500</weekly_index_value>
+      <weekly_index_level>4</weekly_index_level>
+      <weekly_index_level_label>Great</weekly_index_level_label>
+      <weekly_index_color>99FF66</weekly_index_color>
+      <week_start_date>2015-02-09</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>60</value>
+            <label>Water</label>
+            <color>FF9933</color>
+            <text>Your body needs much more water</text>
+         </recommendation>
+         <recommendation>
+            <value>55</value>
+            <label>Sleep</label>
+            <color>FFFF66</color>
+            <text>Would be great if you could sleep for two more hours</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>a2jQ3sD6hDN6TZaDjQONZQ</id>
+      <patient_id>111129^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111129</member_id>
+      <weekly_index_value>530</weekly_index_value>
+      <weekly_index_level>4</weekly_index_level>
+      <weekly_index_level_label>Great</weekly_index_level_label>
+      <weekly_index_color>99FF66</weekly_index_color>
+      <week_start_date>2015-02-16</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>75</value>
+            <label>Water</label>
+            <color>99FF66</color>
+            <text>Good job - just a few more glasses of water</text>
+         </recommendation>
+         <recommendation>
+            <value>60</value>
+            <label>Sleep</label>
+            <color>FFFF66</color>
+            <text>Would be great if you could sleep for two more hours</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>a2jQ3sD6hDN6TZaDjQONZQ</id>
+      <patient_id>111129^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111129</member_id>
+      <weekly_index_value>520</weekly_index_value>
+      <weekly_index_level>4</weekly_index_level>
+      <weekly_index_level_label>Great</weekly_index_level_label>
+      <weekly_index_color>99FF66</weekly_index_color>
+      <week_start_date>2015-02-23</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>75</value>
+            <label>Water</label>
+            <color>99FF66</color>
+            <text>Good job - just a few more glasses of water</text>
+         </recommendation>
+         <recommendation>
+            <value>60</value>
+            <label>Sleep</label>
+            <color>FFFF66</color>
+            <text>Would be great if you could sleep for two more hours</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>a2jQ3sD6hDN6TZaDjQONZQ</id>
+      <patient_id>111129^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111129</member_id>
+      <weekly_index_value>520</weekly_index_value>
+      <weekly_index_level>4</weekly_index_level>
+      <weekly_index_level_label>Great</weekly_index_level_label>
+      <weekly_index_color>99FF66</weekly_index_color>
+      <week_start_date>2015-03-02</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>75</value>
+            <label>Water</label>
+            <color>99FF66</color>
+            <text>Good job - just a few more glasses of water</text>
+         </recommendation>
+         <recommendation>
+            <value>70</value>
+            <label>Sleep</label>
+            <color>FFFF67</color>
+            <text>Would be great if you could sleep for two more hours</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>a2jQ3sD6hDN6TZaDjQONZQ</id>
+      <patient_id>111129^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111129</member_id>
+      <weekly_index_value>550</weekly_index_value>
+      <weekly_index_level>4</weekly_index_level>
+      <weekly_index_level_label>Great</weekly_index_level_label>
+      <weekly_index_color>99FF66</weekly_index_color>
+      <week_start_date>2015-03-09</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>75</value>
+            <label>Water</label>
+            <color>99FF66</color>
+            <text>Good job - just a few more glasses of water</text>
+         </recommendation>
+         <recommendation>
+            <value>70</value>
+            <label>Sleep</label>
+            <color>FFFF68</color>
+            <text>Would be great if you could sleep for two more hours</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>NDIi3xbGlC4eUwFD0hGQwA</id>
+      <patient_id>111130^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111130</member_id>
+      <weekly_index_value>350</weekly_index_value>
+      <weekly_index_level>3</weekly_index_level>
+      <weekly_index_level_label>Almost there</weekly_index_level_label>
+      <weekly_index_color>FFFF66</weekly_index_color>
+      <week_start_date>2015-01-12</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>40</value>
+            <label>Water</label>
+            <color>FF9933</color>
+            <text>Your body needs much more water</text>
+         </recommendation>
+         <recommendation>
+            <value>40</value>
+            <label>Sleep</label>
+            <color>FF9933</color>
+            <text>Would be great if you could sleep for four more hours</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>NDIi3xbGlC4eUwFD0hGQwA</id>
+      <patient_id>111130^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111130</member_id>
+      <weekly_index_value>380</weekly_index_value>
+      <weekly_index_level>3</weekly_index_level>
+      <weekly_index_level_label>Almost there</weekly_index_level_label>
+      <weekly_index_color>FFFF66</weekly_index_color>
+      <week_start_date>2015-01-19</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>40</value>
+            <label>Water</label>
+            <color>FF9933</color>
+            <text>Your body needs much more water</text>
+         </recommendation>
+         <recommendation>
+            <value>50</value>
+            <label>Sleep</label>
+            <color>FF9933</color>
+            <text>Would be great if you could sleep for four more hours</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>NDIi3xbGlC4eUwFD0hGQwA</id>
+      <patient_id>111130^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111130</member_id>
+      <weekly_index_value>410</weekly_index_value>
+      <weekly_index_level>3</weekly_index_level>
+      <weekly_index_level_label>Almost there</weekly_index_level_label>
+      <weekly_index_color>FFFF66</weekly_index_color>
+      <week_start_date>2015-01-26</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>50</value>
+            <label>Water</label>
+            <color>FF9933</color>
+            <text>Your body needs much more water</text>
+         </recommendation>
+         <recommendation>
+            <value>50</value>
+            <label>Sleep</label>
+            <color>FFFF66</color>
+            <text>Would be great if you could sleep for two more hours</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>NDIi3xbGlC4eUwFD0hGQwA</id>
+      <patient_id>111130^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111130</member_id>
+      <weekly_index_value>370</weekly_index_value>
+      <weekly_index_level>3</weekly_index_level>
+      <weekly_index_level_label>Almost there</weekly_index_level_label>
+      <weekly_index_color>FFFF66</weekly_index_color>
+      <week_start_date>2015-02-02</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>50</value>
+            <label>Water</label>
+            <color>FF9933</color>
+            <text>Your body needs much more water</text>
+         </recommendation>
+         <recommendation>
+            <value>50</value>
+            <label>Sleep</label>
+            <color>FFFF66</color>
+            <text>Would be great if you could sleep for two more hours</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>NDIi3xbGlC4eUwFD0hGQwA</id>
+      <patient_id>111130^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111130</member_id>
+      <weekly_index_value>390</weekly_index_value>
+      <weekly_index_level>3</weekly_index_level>
+      <weekly_index_level_label>Almost there</weekly_index_level_label>
+      <weekly_index_color>FFFF66</weekly_index_color>
+      <week_start_date>2015-02-09</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>60</value>
+            <label>Water</label>
+            <color>FF9933</color>
+            <text>Your body needs much more water</text>
+         </recommendation>
+         <recommendation>
+            <value>55</value>
+            <label>Sleep</label>
+            <color>FFFF66</color>
+            <text>Would be great if you could sleep for two more hours</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>NDIi3xbGlC4eUwFD0hGQwA</id>
+      <patient_id>111130^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111130</member_id>
+      <weekly_index_value>420</weekly_index_value>
+      <weekly_index_level>3</weekly_index_level>
+      <weekly_index_level_label>Almost there</weekly_index_level_label>
+      <weekly_index_color>FFFF66</weekly_index_color>
+      <week_start_date>2015-02-16</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>75</value>
+            <label>Water</label>
+            <color>99FF66</color>
+            <text>Good job - just a few more glasses of water</text>
+         </recommendation>
+         <recommendation>
+            <value>60</value>
+            <label>Sleep</label>
+            <color>FFFF66</color>
+            <text>Would be great if you could sleep for two more hours</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>NDIi3xbGlC4eUwFD0hGQwA</id>
+      <patient_id>111130^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111130</member_id>
+      <weekly_index_value>410</weekly_index_value>
+      <weekly_index_level>3</weekly_index_level>
+      <weekly_index_level_label>Almost there</weekly_index_level_label>
+      <weekly_index_color>FFFF66</weekly_index_color>
+      <week_start_date>2015-02-23</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>75</value>
+            <label>Water</label>
+            <color>99FF66</color>
+            <text>Good job - just a few more glasses of water</text>
+         </recommendation>
+         <recommendation>
+            <value>60</value>
+            <label>Sleep</label>
+            <color>FFFF66</color>
+            <text>Would be great if you could sleep for two more hours</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>NDIi3xbGlC4eUwFD0hGQwA</id>
+      <patient_id>111130^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111130</member_id>
+      <weekly_index_value>410</weekly_index_value>
+      <weekly_index_level>3</weekly_index_level>
+      <weekly_index_level_label>Almost there</weekly_index_level_label>
+      <weekly_index_color>FFFF66</weekly_index_color>
+      <week_start_date>2015-03-02</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>75</value>
+            <label>Water</label>
+            <color>99FF66</color>
+            <text>Good job - just a few more glasses of water</text>
+         </recommendation>
+         <recommendation>
+            <value>70</value>
+            <label>Sleep</label>
+            <color>FFFF67</color>
+            <text>Would be great if you could sleep for two more hours</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+   <weekly_member_data>
+      <id>NDIi3xbGlC4eUwFD0hGQwA</id>
+      <patient_id>111130^^^&amp;1.3.6.1.4.1.21367.2005.3.7&amp;ISO</patient_id>
+      <member_id>111130</member_id>
+      <weekly_index_value>440</weekly_index_value>
+      <weekly_index_level>3</weekly_index_level>
+      <weekly_index_level_label>Almost there</weekly_index_level_label>
+      <weekly_index_color>FFFF66</weekly_index_color>
+      <week_start_date>2015-03-09</week_start_date>
+      <recommendations>
+         <recommendation>
+            <value>75</value>
+            <label>Water</label>
+            <color>99FF66</color>
+            <text>Good job - just a few more glasses of water</text>
+         </recommendation>
+         <recommendation>
+            <value>70</value>
+            <label>Sleep</label>
+            <color>FFFF68</color>
+            <text>Would be great if you could sleep for two more hours</text>
+         </recommendation>
+      </recommendations>
+   </weekly_member_data>
+</weekly_data>
