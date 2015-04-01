@@ -1301,7 +1301,10 @@ return
 </last_four_weeks_history>
 </stats>
 
-****
+(: --------------------------------------------------------------------------------- :)
+(: statistics data :)
+(: --------------------------------------------------------------------------------- :)
+
 let $input_date := xs:date("2015-03-08")
 let $start_date := $input_date - xs:dayTimeDuration("P28D")
 let $members := doc('/Members.xml')/members/member
@@ -1351,7 +1354,9 @@ return
 </last_four_weeks_history>
 </stats>
 
-****
+(: --------------------------------------------------------------------------------- :)
+(: updated program config :)
+(: --------------------------------------------------------------------------------- :)
 let $ab := 10000
 let $at := 350
 let $adan := 10
@@ -1364,11 +1369,14 @@ return
   replace value of node $pc/awards_days_above_needed with $adan
 )
 
-****
+(: --------------------------------------------------------------------------------- :)
+(: updated program config :)
+(: --------------------------------------------------------------------------------- :)
 let $adc:=110, $ab:=10000, $at:=350, $adan:=10, $pc:=doc('ProgramConfiguration.xml')/program_configuration return (replace value of node $pc/available_devices_count with $adc, replace value of node $pc/awards_budget with $ab, replace value of node $pc/awards_threshold with $at, replace value of node $pc/awards_days_above_needed with $adan)
 
-
-****
+(: --------------------------------------------------------------------------------- :)
+(: add data to members :)
+(: --------------------------------------------------------------------------------- :)
 for $m in doc('users.json.xml')/members/member
 return insert node (
 <!-- added using xQuery - Start -->,
@@ -1382,7 +1390,9 @@ return insert node (
 )
 before $m/username
 
-****
+(: --------------------------------------------------------------------------------- :)
+(: generate dql :)
+(: --------------------------------------------------------------------------------- :)
 for $m in doc('users.json.xml')/members/member
 return concat(
 "CREATE wp02_member OBJECT ",
@@ -1414,7 +1424,9 @@ string-join(for $m in doc('users.json.xml')/members/member return $m/username, "
 ""
 )
 
-****
+(: --------------------------------------------------------------------------------- :)
+(: weekly report data :)
+(: --------------------------------------------------------------------------------- :)
 let $source1 := doc('/xPressionHelper/FromWeeklyUpdates/')
 let $source2 := doc('/xPressionHelper/FromDailyUpdates/')
 let $award_threshold := doc('/ProgramConfiguration.xml')/program_configuration/awards_threshold/text()
@@ -1560,6 +1572,8 @@ return
 }
 </documents>
 
+(: --------------------------------------------------------------------------------- :)
+(: updated member node :)
 (: --------------------------------------------------------------------------------- :)
 for $m in doc('users.json.xml')/members/member
 return replace value of node $m/team with "Vitex"(: Stylus Studio meta-information - (c) 2004-2009. Progress Software Corporation. All rights reserved.
