@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<daily_data><daily_member_data><id>RWPmGBJCUqbdlLtApLXFiA</id><member_id>111118</member_id><weight>98</weight><height>190</height><daily_index_value>467</daily_index_value><daily_index_level>2</daily_index_level><daily_index_level_label>Good</daily_index_level_label><daily_index_color>0000FF</daily_index_color><date_stamp>2015-04-01</date_stamp><created_at>2015-04-02 03:13:04</created_at><indicators><!-- for future use, optional for now -->
+                    <indicator><!-- 0 to N occurrences -->
+                        <type>Steps</type>
+                        <value>80</value><!-- absolute value -->
+                    </indicator>
+                    <indicator>
+                        <label>Runs</label>
+                        <value>30</value>
+                    </indicator>
+                </indicators></daily_member_data></daily_data>
