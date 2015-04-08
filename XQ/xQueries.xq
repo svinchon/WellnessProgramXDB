@@ -1584,7 +1584,7 @@ return replace value of node $m/team with "Vitex"
 (: reduce number of files :)
 (: --------------------------------------------------------------------------------- :)
 for $m in doc("/xPressionHelper/FromHIP")//daily_data/daily_member_data
-where $m/member_id <= 111120 and xs:date($m/date_stamp) >= xs:date("2015-03-01")
+where $m/member_id > 111120 and xs:date($m/date_stamp) >= xs:date("2015-03-01")
 return insert node $m into doc("/xPressionHelper/FromDailyUpdates/vitex_daily_all.xml")/daily_data
 
 (: Stylus Studio meta-information - (c) 2004-2009. Progress Software Corporation. All rights reserved.
