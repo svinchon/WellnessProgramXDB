@@ -1,10 +1,15 @@
+(: --------------------------------------------------------------------------------- :)
+(: Stats_DataExtraction.xq :)
+(: --------------------------------------------------------------------------------- :)
+
 let $input_date := xs:date(substring(xs:string(current-date()),1,10))
 let $start_date := $input_date - xs:dayTimeDuration("P28D")
 (:let $members := doc('/Members.xml')/members/member:)
-let $members := /members/member
+let $members := doc('/')/members/member
+(:let $daily_member_data := doc('/xPressionHelper/FromHIP')/daily_data/daily_member_data:)
 let $daily_member_data := doc('/xPressionHelper/FromDailyUpdates')/daily_data/daily_member_data
 let $audit_trail := doc('/AuditTrail.xml')/audit_trail
-let $program_config := doc('ProgramConfiguration.xml')/program_configuration
+let $program_config := doc('/ProgramConfiguration.xml')/program_configuration
 return
 <stats>
 <date>{$input_date}</date>

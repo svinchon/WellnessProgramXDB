@@ -1302,15 +1302,17 @@ return
 </stats>
 
 (: --------------------------------------------------------------------------------- :)
-(: statistics data :)
+(: Stats_DataExtraction.xq :)
 (: --------------------------------------------------------------------------------- :)
 
-let $input_date := xs:date("2015-03-08")
+let $input_date := xs:date(substring(xs:string(current-date()),1,10))
 let $start_date := $input_date - xs:dayTimeDuration("P28D")
-let $members := doc('/Members.xml')/members/member
-let $daily_member_data := doc('/xPressionHelper/FromDailyUpdates')/daily_data/daily_member_data
+(:let $members := doc('/Members.xml')/members/member:)
+let $members := doc('/')/members/member
+let $daily_member_data := doc('/xPressionHelper/FromHIP')/daily_data/daily_member_data
+(:let $daily_member_data := doc('/xPressionHelper/FromDailyUpdates')/daily_data/daily_member_data:)
 let $audit_trail := doc('/AuditTrail.xml')/audit_trail
-let $program_config := doc('ProgramConfiguration.xml')/program_configuration
+let $program_config := doc('/ProgramConfiguration.xml')/program_configuration
 return
 <stats>
 <date>{$input_date}</date>
@@ -1336,8 +1338,8 @@ return
 <avg>{if ($c0>0) then $a0 else 0}</avg>
 <teams>
 {
-for $team in distinct-values($members/team)
-let $team_daily_index_values := for $m in $members where $m/team = $team return $daily_member_data/daily_index_value[xs:date(../date_stamp) = $current_date and ../member_id = $m/badge_number]
+for $team in distinct-values($members/gender)
+let $team_daily_index_values := for $m in $members where $m/gender = $team return $daily_member_data/daily_index_value[xs:date(../date_stamp) = $current_date and ../member_id = $m/badge_number]
 let $c1 := count($team_daily_index_values)
 let $a1 := avg($team_daily_index_values)
 return
@@ -1581,9 +1583,11 @@ return replace value of node $m/team with "Vitex"
 (: --------------------------------------------------------------------------------- :)
 (: reduce number of files :)
 (: --------------------------------------------------------------------------------- :)
-for $m in doc("/xPressionHelper/FromDailyUpdates")//daily_data/daily_member_data
-where $m/member_id <= 111120
-return insert node $m into doc("/xPressionHelper/FromDailyUpdates/vitex_daily_all.xml")/daily_data(: Stylus Studio meta-information - (c) 2004-2009. Progress Software Corporation. All rights reserved.
+for $m in doc("/xPressionHelper/FromHIP")//daily_data/daily_member_data
+where $m/member_id <= 111120 and xs:date($m/date_stamp) >= xs:date("2015-03-01")
+return insert node $m into doc("/xPressionHelper/FromDailyUpdates/vitex_daily_all.xml")/daily_data
+
+(: Stylus Studio meta-information - (c) 2004-2009. Progress Software Corporation. All rights reserved.
 
 <metaInformation>
 	<scenarios>
