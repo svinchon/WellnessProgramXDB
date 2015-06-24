@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<weekly_data><weekly_member_data><id>bwYiw741boDOJUmpxbclkQ</id><member_id>111117</member_id><weekly_index_value>596</weekly_index_value><weekly_index_level>2</weekly_index_level><weekly_index_level_label>Good</weekly_index_level_label><weekly_index_color>0000FF</weekly_index_color><week_start_date>2015-05-25</week_start_date><created_at>2015-06-01 03:29:03</created_at><recommendations>
+                    <recomendation><!-- 0 to N occurrences -->
+                        <value>80</value><!-- percentage, cannot be more than 100% -->
+                        <label>Steps</label>
+                        <color>FF2200</color><!-- hex value like FF2200 -->
+                        <text>Do more steps</text>
+                    </recomendation>
+                    <recomendation>
+                        <value>100</value>
+                        <label>Water</label>
+                        <color>FF2200</color>
+                        <text>Keep drinking the same way</text>
+                    </recomendation>
+		        </recommendations></weekly_member_data></weekly_data>
